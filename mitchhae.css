@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap');
+
+    .mitchversocon { color: #ddd;
+      width: 70%; outline: 1px solid rgba(255,255,255,0.1); outline-offset: 0px;
+      margin: 30px auto;
+      background-blend-mode: multiply; border-radius: 15px;
+
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "mitchversopost";}
+
+  .mitchversocon b { color: #000;
+    padding: 2px 0px;
+    font-weight: 700; }
+    
+  .mitchversocon .mitchversopost { grid-area: mitchversopost;
+    padding: 50px 70px;
+    text-align: justify;
+    font-family: Frank Ruhl Libre;
+    font-size: 12px!important; white-space: pre-wrap;
+    line-height: 230%;}
+
+.mitchversoquote::before { content: "texto aqui"; text-transform: uppercase; font-size: 8px; letter-spacing: 2px; }
+.mitchversoquote { padding: 20px 20px 0px 20px; margin-bottom: -10px;}
+
+  .mitchversocon b { font-size: 12px; font-weight: 700; }
+
+
+#ivan .mitchversocon { background: url(https://i.imgur.com/XUR9b3J.png), linear-gradient(0deg, rgba(205,117,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#ivan .mitchversocon b { color: #cd7500; }
+#ivan .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#pamela .mitchversocon { background: url(https://i.imgur.com/VcOd02x.png), linear-gradient(0deg, rgba(205,117,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#pamela .mitchversocon b { color: #cd7500; }
+#pamela .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+#contessa .mitchversocon { background: url(https://i.imgur.com/tacPEAx.jpg), linear-gradient(0deg, rgba(73,14,14,1) 0%, rgba(21,21,21,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#contessa .mitchversocon b { color: #e85f5f; }
+#contessa .mitchversoquote::before { content: "Tuck a knife with my heart up my sleeve / And fuck like a demon / Do it like nothin' / I am disgustin' / I've been corrupted / And by now I don't need no help to be destructive / I've been gone / Yeah, I've been on this road too long";}
+
+#greta .mitchversocon { background: url(https://i.imgur.com/bwWI5xb.png), linear-gradient(0deg, rgba(58,24,91,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#greta .mitchversocon b { color: #9759d4; }
+#greta .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#billy .mitchversocon { background: url(https://i.imgur.com/RrlE34j.png), linear-gradient(0deg, rgba(42,136,122,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#billy .mitchversocon b { color: rgba(62,181,149,1); }
+#billy .mitchversoquote::before { content: "I need my golden crown of sorrow / My bloody sword to swing / My empty halls to echo with grand self-mythology / I am no mother / I am no bride / I am King";}
+
+#camael .mitchversocon { background: url(https://i.imgur.com/GNGkNqW.jpg), linear-gradient(0deg, rgba(15,105,140,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#camael .mitchversocon b { color: rgba(15,105,140,1); }
+#camael .mitchversoquote::before { content: "I need my golden crown of sorrow / My bloody sword to swing / My empty halls to echo with grand self-mythology / I am no mother / I am no bride / I am King";}
+
+#cameel .mitchversocon { background: url(https://i.imgur.com/E83Yqi0.png), linear-gradient(0deg, rgba(60,100,120,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#cameel .mitchversocon b { color: #80D2F2; }
+#cameel .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+#hell .mitchversocon { background: url(https://i.imgur.com/bwWI5xb.png), linear-gradient(0deg, rgba(125,96,79,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#hell .mitchversocon b { color: #7d604f; }
+#hell .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+#santiago .mitchversocon { background: url(https://i.imgur.com/kf6A8YS.png), linear-gradient(0deg, rgba(174,75,42,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#santiago .mitchversocon b { color: rgba(174,75,42,1); }
+#santiago .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#ivy .mitchversocon { background: url(https://i.imgur.com/OQzJNL2.png), linear-gradient(0deg, rgba(250,250,250,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover; text-transform: lowercase;}
+#ivy .mitchversocon b { color: #000; background: rgba(255,255,255,0.4); }
+#ivy .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#cora .mitchversocon { background: url(https://i.imgur.com/AwK41jl.png), linear-gradient(0deg, rgba(255,128,151,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#cora .mitchversocon b { color: #ff8097; }
+#cora .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#milo .mitchversocon { background: url(https://i.imgur.com/kf6A8YS.png), linear-gradient(0deg, rgba(121,132,77,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#milo .mitchversocon b { color: #79844d; }
+#milo .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+
+#padma .mitchversocon { background: url(https://i.imgur.com/jexin0S.jpg), linear-gradient(0deg, rgba(127,98,10,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#padma .mitchversocon b { color: #f9db4a; }
+#padma .mitchversoquote::before { content: "We're never done with killing time / Can I kill it with you? / 'Til the veins run red and blue / We come around here all the time / Got a lot to not do, let me kill it with you";}
+
+
+ .smsmitch {position: relative;
+    border-radius: 5px;
+    background: #000; color: #fff; padding: 15px;
+    margin-bottom: 3rem;
+    line-height: 1.5;
+    margin: 15px 5px;}
+  .smsmitch::after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    bottom: 0;
+    border-style: solid;
+    border-width: 20px 20px 0 0;
+    border-color: #000 transparent transparent;
+    transform: translate(0,100%);
