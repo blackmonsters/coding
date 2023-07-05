@@ -51,27 +51,27 @@ font-size: 8px;}
 #clover .pupscon, #fada .pupscon { background-image: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(82,68,83,1) 100%);}
 #clover .pupscon b, #fada .pupscon b { color: #f2b6b3; }
 
-#caitlyn .pupscon { background-image: linear-gradient(180deg, #37826d, #61a08e);}
-#caitlyn .pupscon b { color: #02c990; }
+#caitlyn .pupscon, #cacador .pupscon { background-image: linear-gradient(180deg, #37826d, #61a08e);}
+#caitlyn .pupscon b, #cacador .pupscon b { color: #02c990; }
 
-#frankie .pupscon { background-image: linear-gradient(180deg, #C76969, #994e4e);}
-#frankie .pupscon b { color: #f2a4a4; }
+#frankie .pupscon, #youkai .pupscon { background-image: linear-gradient(180deg, #C76969, #994e4e);}
+#frankie .pupscon b, #youkai .pupscon b { color: #f2a4a4; }
 
-#lydia .pupscon { background-image: linear-gradient(180deg, #3D3126, #3D3126);}
-#lydia .pupscon b { color: #f2b05e; }
+#lydia .pupscon, #lobisomem .pupscon { background-image: linear-gradient(180deg, #3D3126, #3D3126);}
+#lydia .pupscon b, #lobisomem .pupscon b { color: #f2b05e; }
 
-#maeve .pupscon { background-image: linear-gradient(180deg, #505340, #505340);}
-#maeve .pupscon b { color: #9ba86a; }
+#maeve .pupscon, #jumper .pupscon { background-image: linear-gradient(180deg, #505340, #505340);}
+#maeve .pupscon b, #jumper .pupscon b { color: #9ba86a; }
 
-#sebastian .pupscon { background-image: linear-gradient(180deg, #842e2e, #541616);}
-#sebastian .pupscon b { color: #ea2e2e; }
+#sebastian .pupscon, #vampiro .pupscon { background-image: linear-gradient(180deg, #842e2e, #541616);}
+#sebastian .pupscon b, #vampiro .pupscon b { color: #ea2e2e; }
 
-#valencia .pupscon { background-image: linear-gradient(180deg, #5f447a, #483859);}
-#valencia .pupscon b { color: #9f79c4; }
+#valencia .pupscon, #feiticeiro .pupscon { background-image: linear-gradient(180deg, #5f447a, #483859);}
+#valencia .pupscon b, #feiticeiro .pupscon b { color: #9f79c4; }
 
-#abbyzou .pupscon { background-image: linear-gradient(180deg, #374936, #789676);}
-#abbyzou .pupscon b { color: #A3C0A2; }
+#abbyzou .pupscon, #demonio .pupscon { background-image: linear-gradient(180deg, #374936, #789676);}
+#abbyzou .pupscon b, #demonio .pupscon b { color: #A3C0A2; }
 
-#jane .pupscon { background-image: linear-gradient(180deg, #191501, #191501);}
-#jane .pupscon b { color: #f9db4a; }
+#jane .pupscon, #kiangshi .pupscon { background-image: linear-gradient(180deg, #191501, #191501);}
+#jane .pupscon b, #kiangshi .pupscon b { color: #f9db4a; }
 
