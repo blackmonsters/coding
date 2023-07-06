@@ -42,7 +42,7 @@ font-size: 8px;}
 .pupsgif2 { width: 60px; height: 60px; background-size: cover; background-position: center; background-image: url(https://64.media.tumblr.com/8a1ee75f8c096fbb87cc4a316644cb01/0858022eaed83c42-e1/s500x750/eaaede5ef6c722b4d136053ffa872a2779cd3337.gifv); margin: 15px 0px;}
 .pupsgif3 { outline-offset: 5px; width: 60px; height: 60px; background-size: cover; background-position: center; background-image: url(https://64.media.tumblr.com/8a1ee75f8c096fbb87cc4a316644cb01/0858022eaed83c42-e1/s500x750/eaaede5ef6c722b4d136053ffa872a2779cd3337.gifv); margin: 15px 0px;}
 
-#attina .pupscon, #atlanti .pupscon { background-image: linear-gradient(180deg, #395d68, #395d68);}
+#attina .pupscon, #atlanti .pupscon { background-image: linear-gradient(180deg, #062530, #062530);}
 #attina .pupscon b, #atlanti .pupscon b { color: #66c5e5; }
 
 #blair .pupscon, #banshee .pupscon { background-image: linear-gradient(180deg, #7f3d59, #aa5379);}
