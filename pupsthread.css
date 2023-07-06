@@ -48,7 +48,7 @@ font-size: 8px;}
 #blair .pupscon, #banshee .pupscon { background-image: linear-gradient(180deg, #7f3d59, #aa5379);}
 #blair .pupscon b, #banshee .pupscon b { color: #f2d0ea; }
 
-#clover .pupscon, #fada .pupscon { background-image: linear-gradient(180g, rgba(0,0,0,1) 0%, rgba(82,68,83,1) 100%);}
+#clover .pupscon, #fada .pupscon { background-image: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(82,68,83,1) 100%);}
 #clover .pupscon b, #fada .pupscon b { color: #f2b6b3; }
 
 #caitlyn .pupscon, #cacador .pupscon { background-image: linear-gradient(180deg, #37826d, #61a08e);}
