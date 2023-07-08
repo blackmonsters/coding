@@ -86,17 +86,17 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #billy .mitchaltide { background-image: url(https://i.postimg.cc/63qMyzKP/desktop-wallpaper-lockscreen-supernatural-supernatural-impala-supernatural-supernatural-funny-67-imp.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
 #billy .mitchalttitle, #gladys .mitchaltcon b { color: #3eb595; }
 
-#pamela .mitchaltconborder { background-color: #0f698c;  }
+#pamela .mitchaltconborder { background-color: #bf6c07;  }
 #pamela .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#pamela .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#pamela .mitchalttitle, #gladys .mitchaltcon b { color: #bf6c07; }
 
-#cora .mitchaltconborder { background-color: #0f698c;  }
+#cora .mitchaltconborder { background-color: #ff8097;  }
 #cora .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#cora .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#cora .mitchalttitle, #gladys .mitchaltcon b { color: #ff8097; }
 
-#padma .mitchaltconborder { background-color: #0f698c;  }
+#padma .mitchaltconborder { background-color: #f9db4a;  }
 #padma .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#padma .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#padma .mitchalttitle, #gladys .mitchaltcon b { color: #f9db4a; }
 
 #fei .mitchaltconborder { background-color: #d9bea7;  }
 #fei .mitchaltide { background-image: url(https://i.pinimg.com/564x/38/7e/39/387e393423e5f02ace60eb373acbfade.jpg), linear-gradient(50deg, #d9bea7, #666, #666, #d9bea7); background-position: center right; }
