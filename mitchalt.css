@@ -102,14 +102,14 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #fei .mitchaltide { background-image: url(https://i.pinimg.com/564x/38/7e/39/387e393423e5f02ace60eb373acbfade.jpg), linear-gradient(50deg, #d9bea7, #666, #666, #d9bea7); background-position: center right; }
 #fei .mitchalttitle, #gladys .mitchaltcon b { color: #d9bea7; }
 
-#victor .mitchaltconborder { background-color: #0f698c;  }
-#victor .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#victor .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#victor .mitchaltconborder { background-color: #a66eb6;  }
+#victor .mitchaltide { background-image: url(https://i.pinimg.com/564x/7b/1b/76/7b1b767903d3d4ef71abd8ae3a93b075.jpg), linear-gradient(50deg, #eee, #666, #fff, #666); background-position: top; filter:contrast(1.1); }
+#victor .mitchalttitle, #gladys .mitchaltcon b { color: #a66eb6; }
 
-#sandra .mitchaltconborder { background-color: #0f698c;  }
-#sandra .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#sandra .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#sandra .mitchaltconborder { background-color: #9acd32;  }
+#sandra .mitchaltide { background-image: url(https://i.postimg.cc/dQfJttrs/sandra.png), linear-gradient(50deg, #fff, #666, #666, #fff); background-position: center right; filter:contrast(1.2); }
+#sandra .mitchalttitle, #gladys .mitchaltcon b { color: #9acd32; }
 
-#zezrith .mitchaltconborder { background-color: #0f698c;  }
-#zezrith .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#zezrith .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#zezrith .mitchaltconborder { background-color: #a3c0a2;  }
+#zezrith .mitchaltide { background-image: url(https://i.pinimg.com/564x/3f/bc/34/3fbc34297db31d653515627ab6a919ba.jpg), linear-gradient(50deg, #a3c0a2, #eee, #eee, #a3c0a2); background-position: bottom; filter:contrast(1.3); }
+#zezrith .mitchalttitle, #gladys .mitchaltcon b { color: #a3c0a2; }
