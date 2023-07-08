@@ -78,13 +78,13 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #santiago .mitchaltide { background-image: url(https://i.postimg.cc/cHD3VmGs/62f66e3ebdc38c67e81d71b120a82236.jpg), linear-gradient(50deg, #ae4b2a, #666, #666, #ae4b2a); background-position: center right; }
 #santiago .mitchalttitle, #gladys .mitchaltcon b { color: #ae4b2a; }
 
-#ivy .mitchaltconborder { background-color: #0f698c;  }
-#ivy .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#ivy .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#ivy .mitchaltconborder { background-color: #eee;  }
+#ivy .mitchaltide { background-image: url(https://i.postimg.cc/Jn4m2wL2/Edition-7-running-like-water.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
+#ivy .mitchalttitle, #gladys .mitchaltcon b { color: #999; }
 
-#billy .mitchaltconborder { background-color: #0f698c;  }
-#billy .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#billy .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#billy .mitchaltconborder { background-color: #3eb595;  }
+#billy .mitchaltide { background-image: url(https://i.postimg.cc/63qMyzKP/desktop-wallpaper-lockscreen-supernatural-supernatural-impala-supernatural-supernatural-funny-67-imp.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
+#billy .mitchalttitle, #gladys .mitchaltcon b { color: #3eb595; }
 
 #pamela .mitchaltconborder { background-color: #0f698c;  }
 #pamela .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
@@ -98,16 +98,13 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #padma .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
 #padma .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
 
-
 #fei .mitchaltconborder { background-color: #0f698c;  }
 #fei .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
 #fei .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
 
-
 #victor .mitchaltconborder { background-color: #0f698c;  }
 #victor .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
 #victor .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
-
 
 #sandra .mitchaltconborder { background-color: #0f698c;  }
 #sandra .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
