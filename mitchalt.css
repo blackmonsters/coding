@@ -13,14 +13,14 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   grid-template-columns: auto;
   grid-template-rows: 300px auto;
   grid-template-areas:
-    "suavagif"
-    "suavapost";}
+    "mitchavagif"
+    "mitchavapost";}
 
 .mitchaltcon b { color: #fff;
   padding: 2px 0px;
   font-weight: 700; }
 
-.mitchaltcon .mitchaltpost { grid-area: suavapost;
+.mitchaltcon .mitchaltpost { grid-area: mitchavapost;
   padding: 50px 60px 0px 60px; white-space: pre-wrap;
   text-align: justify; margin: 0px;
   font-family: playfair display;
@@ -28,7 +28,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   line-height: 200%; color: #ddd; }
 
 .mitchaltide { width: 100%; border-radius: 15px 0px;
-  grid-area: suavagif; background-blend-mode: multiply; background-size: cover; background-position: center;
+  grid-area: mitchavagif; background-blend-mode: multiply; background-size: cover; background-position: center;
   text-transform: uppercase; font-family: Playfair Display;
   font-size: 8px;
   letter-spacing: 1px; justify-content: space-evenly;}
@@ -91,7 +91,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #pamela .mitchalttitle, #gladys .mitchaltcon b { color: #bf6c07; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
-#cora .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
+#cora .mitchaltide { background-image: url(https://i.postimg.cc/6QXZ1L5P/db6d871c128770bcbda0e8313ca13dd4.jpg), linear-gradient(50deg, #ff8097, #666, #ff8097); }
 #cora .mitchalttitle, #gladys .mitchaltcon b { color: #ff8097; }
 
 #padma .mitchaltconborder { background-color: #f9db4a;  }
