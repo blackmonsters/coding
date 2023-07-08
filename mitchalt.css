@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+.mitchaltconborder { width: 550px; margin: 50px auto; border-radius: 0px 20px;
+  background: url('https://i.imgur.com/bwWI5xb.png'); padding-top: 25px; padding-bottom:25px;
+background-size: cover; background-attachment: fixed; background-blend-mode: multiply;}
+
+.mitchaltcon { color: #ddd; 
+    width: 500px; margin: auto; border-radius: 15px 0px;
+    background-color: rgba(0,0,0,0.3); backdrop-filter:blur(5px);
+
+  display: grid;
+  grid-template-columns: auto;
+  grid-template-rows: 300px auto;
+  grid-template-areas:
+    "suavagif"
+    "suavapost";}
+
+.mitchaltcon b { color: #fff;
+  padding: 2px 0px;
+  font-weight: 700; }
+
+.mitchaltcon .mitchaltpost { grid-area: suavapost;
+  padding: 50px 60px 0px 60px; white-space: pre-wrap;
+  text-align: justify; margin: 0px;
+  font-family: playfair display;
+  font-size: 13px!important;
+  line-height: 200%; color: #ddd; }
+
+.mitchaltide { width: 100%; border-radius: 15px 0px;
+  grid-area: suavagif; background-blend-mode: multiply; background-size: cover; background-position: center;
+  text-transform: uppercase; font-family: Playfair Display;
+  font-size: 8px;
+  letter-spacing: 1px; justify-content: space-evenly;}
+
+.mitchalttitle { color: #777;  text-transform: uppercase; text-shadow: 2px 2px rgba(0,0,0,0.2); 
+  font-family: Playfair Display; font-size:100px; font-weight: 900; text-align: right; font-style: italic;
+  line-height: 100%; padding: 0px; margin: 250px 40px 0px 40px; }
+  
+.mitchalttitle1 { color: #222;  text-transform: lowercase; 
+  font-family: Playfair Display; font-size:16px; font-style: italic; text-align: left; border-bottom: 1px solid #aaa;
+  line-height: 120%; padding: 30px 0px; margin: -20px 0px 40px 0px; }
+  
+
+#gladys .mitchaltconborder { background-color: #c76969;  }
+#gladys .mitchaltide { background-image: url(https://i.pinimg.com/564x/16/c4/27/16c427377e9a6cc65a09e65b9b053175.jpg), linear-gradient(50deg, #c76969, #eee, #c76969, #eee) }
+#gladys .mitchalttitle, #gladys .mitchaltcon b { color: #c76969; }
+
