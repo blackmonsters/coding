@@ -66,9 +66,9 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #contessa .mitchaltide { background-image: url(https://i.postimg.cc/XYFnj8ZY/ed818dc85611b9b53093e480caf796ca.jpg), linear-gradient(50deg, #821718, #999, #821718); filter:contrast(1.5); }
 #contessa .mitchalttitle, #gladys .mitchaltcon b { color: #821718; }
 
-#helena .mitchaltconborder { background-color: #0f698c;  }
-#helena .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#helena .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#helena .mitchaltconborder { background-color: #7d604f;  }
+#helena .mitchaltide { background-image: url(https://i.postimg.cc/Zn6rhqBq/272646312-339301904865707-68422293364422729-n.jpg), linear-gradient(50deg, #7d604f, #666, #7d604f); background-position: 20% 20%; }
+#helena .mitchalttitle, #gladys .mitchaltcon b { color: #7d604f; }
 
 #cameel .mitchaltconborder { background-color: #0f698c;  }
 #cameel .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
