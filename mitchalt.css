@@ -51,11 +51,11 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #milo .mitchalttitle, #gladys .mitchaltcon b { color: #79844d; }
 
 #camael .mitchaltconborder { background-color: #0f698c;  }
-#camael .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
+#camael .mitchaltide { background-image: url(https://i.postimg.cc/BnWs7nsz/0b6865ae7f60a66f2891f157dc5e1522.jpg), linear-gradient(50deg, #eee, #666, #eee); }
 #camael .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
 
 #greta .mitchaltconborder { background-color: #5b2491;  }
-#greta .mitchaltide { background-image: url(https://i.postimg.cc/0Q0cvb1N/greta.jpg), linear-gradient(50deg, #5b2491, #999, #999, #5b2491); filter: contrast(1.2); }
+#greta .mitchaltide { background-image: url(https://i.postimg.cc/kgxC0Pgg/greta.jpg), linear-gradient(50deg, #5b2491, #999, #999, #5b2491); filter: contrast(1.2); }
 #greta .mitchalttitle, #gladys .mitchaltcon b { color: #5b2491; }
 
 #ivan .mitchaltconborder { background-color: #ff8d00;  }
