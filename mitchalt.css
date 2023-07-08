@@ -33,16 +33,19 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   font-size: 8px;
   letter-spacing: 1px; justify-content: space-evenly;}
 
-.mitchalttitle { color: #777;  text-transform: uppercase; text-shadow: 2px 2px rgba(0,0,0,0.2); 
+.mitchalttitle { color: #777;  text-transform: lowercase; text-shadow: 2px 2px rgba(0,0,0,0.2); 
   font-family: Playfair Display; font-size:100px; font-weight: 900; text-align: right; font-style: italic;
-  line-height: 100%; padding: 0px; margin: 250px 40px 0px 40px; }
+  line-height: 100%; padding: 0px; margin: 240px 40px 0px 40px; }
   
 .mitchalttitle1 { color: #222;  text-transform: lowercase; 
   font-family: Playfair Display; font-size:16px; font-style: italic; text-align: left; border-bottom: 1px solid #aaa;
   line-height: 120%; padding: 30px 0px; margin: -20px 0px 40px 0px; }
   
 
-#gladys .mitchaltconborder { background-color: #c76969;  }
-#gladys .mitchaltide { background-image: url(https://i.pinimg.com/564x/16/c4/27/16c427377e9a6cc65a09e65b9b053175.jpg), linear-gradient(50deg, #c76969, #eee, #c76969, #eee) }
-#gladys .mitchalttitle, #gladys .mitchaltcon b { color: #c76969; }
+#jimmy .mitchaltconborder { background-color: #c76969;  }
+#jimmy .mitchaltide { background-image: url(https://i.postimg.cc/43c6JrGF/16c427377e9a6cc65a09e65b9b053175.jpg), linear-gradient(50deg, #c76969, #eee, #c76969, #eee) }
+#jimmy .mitchalttitle, #gladys .mitchaltcon b { color: #c76969; }
 
+#milo .mitchaltconborder { background-color: #79844d;  }
+#milo .mitchaltide { background-image: url(https://i.postimg.cc/3xy6Fc8K/milo.png), linear-gradient(50deg, #eee, #eee) }
+#milo .mitchalttitle, #gladys .mitchaltcon b { color: #79844d; }
