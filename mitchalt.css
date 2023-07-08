@@ -98,9 +98,9 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #padma .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
 #padma .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
 
-#fei .mitchaltconborder { background-color: #0f698c;  }
-#fei .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
-#fei .mitchalttitle, #gladys .mitchaltcon b { color: #0f698c; }
+#fei .mitchaltconborder { background-color: #d9bea7;  }
+#fei .mitchaltide { background-image: url(https://i.pinimg.com/564x/38/7e/39/387e393423e5f02ace60eb373acbfade.jpg), linear-gradient(50deg, #d9bea7, #666, #666, #d9bea7); background-position: center right; }
+#fei .mitchalttitle, #gladys .mitchaltcon b { color: #d9bea7; }
 
 #victor .mitchaltconborder { background-color: #0f698c;  }
 #victor .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
