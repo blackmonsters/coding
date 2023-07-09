@@ -64,8 +64,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #ivan .mitchalttitle, #ivan .mitchaltcon b { color: #bf6c07; }
 
 #contessa .mitchaltconborder { background-color: #821718;  }
-#contessa .mitchaltide { background-image: url(https://i.postimg.cc/XYFnj8ZY/ed818dc85611b9b53093e480caf796ca.jpg), linear-gradient(50deg, #821718, #999, #821718); filter:contrast(1.5); }
-#contessa .mitchalttitle, #contessa .mitchaltcon b { color: #821718; }
+#contessa .mitchaltide { background-image: url(https://i.postimg.cc/XYFnj8ZY/ed818dc85611b9b53093e480caf796ca.jpg), linear-gradient(50deg, #eee, #999, #eee); filter:contrast(1.5); }
+#contessa .mitchalttitle, #contessa .mitchaltcon b { color: #bc2121; }
 
 #helena .mitchaltconborder { background-color: #7d604f;  }
 #helena .mitchaltide { background-image: url(https://i.postimg.cc/hvfqPpH2/e8b0a4bd6405965b978162588a410c52.jpg), linear-gradient(50deg, #eee, #fff, #fff, #eee); background-position: center; }
