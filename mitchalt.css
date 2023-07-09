@@ -44,7 +44,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   
 
 #jimmy .mitchaltconborder { background-color: #c76969;  }
-#jimmy .mitchaltide { background-image: url(https://i.postimg.cc/DfLnF8Lq/3e379ae03506d74060ccad23f5658638.jpg), linear-gradient(50deg, #c76969, #eee, #c76969, #eee); background-position: top; }
+#jimmy .mitchaltide { background-image: url(https://i.postimg.cc/DfLnF8Lq/3e379ae03506d74060ccad23f5658638.jpg), linear-gradient(50deg, #fff, #eee, #fff, #eee); background-position: top; }
 #jimmy .mitchalttitle, #jimmy .mitchaltcon b { color: #c76969; }
 
 #milo .mitchaltconborder { background-color: #79844d;  }
@@ -92,7 +92,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #pamela .mitchalttitle, #pamela .mitchaltcon b { color: #bf6c07; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
-#cora .mitchaltide { background-image: url(https://i.postimg.cc/6QXZ1L5P/db6d871c128770bcbda0e8313ca13dd4.jpg), linear-gradient(50deg, #ff8097, #666, #ff8097); }
+#cora .mitchaltide { background-image: url(https://i.postimg.cc/6QXZ1L5P/db6d871c128770bcbda0e8313ca13dd4.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #cora .mitchalttitle, #cora .mitchaltcon b { color: #ff8097; }
 
 #padma .mitchaltconborder { background-color: #f9db4a;  }
