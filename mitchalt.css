@@ -60,7 +60,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #greta .mitchalttitle, #greta .mitchaltcon b { color: #5b2491; }
 
 #ivan .mitchaltconborder { background-color: #ff8d00;  }
-#ivan .mitchaltide { background-image: url(https://i.postimg.cc/nM8Tx7SN/faa07baec6285662a46b9ecaa6d10105.jpg), linear-gradient(50deg, #ff8d00, #999, #999, #ff8d00); }
+#ivan .mitchaltide { background-image: url(https://i.postimg.cc/nM8Tx7SN/faa07baec6285662a46b9ecaa6d10105.jpg), linear-gradient(50deg, #fff, #999, #999, #fff); }
 #ivan .mitchalttitle, #ivan .mitchaltcon b { color: #bf6c07; }
 
 #contessa .mitchaltconborder { background-color: #821718;  }
