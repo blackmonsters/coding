@@ -88,7 +88,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #billy .mitchalttitle, #billy .mitchaltcon b { color: #3eb595; }
 
 #pamela .mitchaltconborder { background-color: #bf6c07;  }
-#pamela .mitchaltide { background-image: url(https://i.postimg.cc/fWFhJb3R/lucas-lenzi-ee-FMA02k-Rog-unsplash.jpg), linear-gradient(50deg, #bf6c07, #666, #666, #bf6c07); }
+#pamela .mitchaltide { background-image: url(https://i.postimg.cc/fWFhJb3R/lucas-lenzi-ee-FMA02k-Rog-unsplash.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #pamela .mitchalttitle, #pamela .mitchaltcon b { color: #bf6c07; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
