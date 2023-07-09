@@ -72,11 +72,11 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #helena .mitchalttitle, #helena .mitchaltcon b { color: #7d604f; }
 
 #cameel .mitchaltconborder { background-color: #80d2f2;  }
-#cameel .mitchaltide { background-image: url(https://i.postimg.cc/FFVspZXq/b8f39c2af977e7accbc631c237f2dc73.jpg), linear-gradient(50deg, #80d2f2, #666, #80d2f2); }
+#cameel .mitchaltide { background-image: url(https://i.postimg.cc/hvPt8LNm/cameel.png), linear-gradient(50deg, #80d2f2, #666, #80d2f2); }
 #cameel .mitchalttitle, #cameel .mitchaltcon b { color: #80d2f2; }
 
 #santiago .mitchaltconborder { background-color: #ae4b2a;  }
-#santiago .mitchaltide { background-image: url(https://i.postimg.cc/cHD3VmGs/62f66e3ebdc38c67e81d71b120a82236.jpg), linear-gradient(50deg, #ae4b2a, #666, #666, #ae4b2a); background-position: center right; }
+#santiago .mitchaltide { background-image: url(https://i.postimg.cc/cHD3VmGs/62f66e3ebdc38c67e81d71b120a82236.jpg), linear-gradient(50deg, #fff, #666, #666, #fff); background-position: center right; }
 #santiago .mitchalttitle, #santiago .mitchaltcon b { color: #ae4b2a; }
 
 #ivy .mitchaltconborder { background-color: #eee;  }
