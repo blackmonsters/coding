@@ -48,7 +48,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #jimmy .mitchalttitle, #jimmy .mitchaltcon b { color: #c76969; }
 
 #milo .mitchaltconborder { background-color: #79844d;  }
-#milo .mitchaltide { background-image: url(https://i.pinimg.com/564x/7b/1b/76/7b1b767903d3d4ef71abd8ae3a93b075.jpg), linear-gradient(50deg, #eee, #eee) }
+#milo .mitchaltide { background-image: url(https://i.pinimg.com/564x/7b/1b/76/7b1b767903d3d4ef71abd8ae3a93b075.jpg), linear-gradient(50deg, #eee, #eee); background-position: top;}
 #milo .mitchalttitle, #milo .mitchaltcon b { color: #79844d; }
 
 #camael .mitchaltconborder { background-color: #0f698c;  }
@@ -68,11 +68,11 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #contessa .mitchalttitle, #contessa .mitchaltcon b { color: #821718; }
 
 #helena .mitchaltconborder { background-color: #7d604f;  }
-#helena .mitchaltide { background-image: url(https://i.postimg.cc/hvfqPpH2/e8b0a4bd6405965b978162588a410c52.jpg), linear-gradient(50deg, #7d604f, #666, #7d604f); background-position: top center; }
+#helena .mitchaltide { background-image: url(https://i.postimg.cc/hvfqPpH2/e8b0a4bd6405965b978162588a410c52.jpg), linear-gradient(50deg, #7d604f, #fff, #fff, #7d604f); background-position: top center; }
 #helena .mitchalttitle, #helena .mitchaltcon b { color: #7d604f; }
 
 #cameel .mitchaltconborder { background-color: #80d2f2;  }
-#cameel .mitchaltide { background-image: url(https://i.postimg.cc/hvPt8LNm/cameel.png), linear-gradient(50deg, #80d2f2, #666, #80d2f2); }
+#cameel .mitchaltide { background-image: url(https://i.postimg.cc/hvPt8LNm/cameel.png), linear-gradient(50deg, #666, #fff, #fff, #666); }
 #cameel .mitchalttitle, #cameel .mitchaltcon b { color: #80d2f2; }
 
 #santiago .mitchaltconborder { background-color: #ae4b2a;  }
