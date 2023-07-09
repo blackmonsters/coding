@@ -48,7 +48,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #jimmy .mitchalttitle, #jimmy .mitchaltcon b { color: #c76969; }
 
 #milo .mitchaltconborder { background-color: #79844d;  }
-#milo .mitchaltide { background-image: url(https://i.postimg.cc/3xy6Fc8K/milo.png), linear-gradient(50deg, #eee, #eee) }
+#milo .mitchaltide { background-image: url(https://i.pinimg.com/564x/7b/1b/76/7b1b767903d3d4ef71abd8ae3a93b075.jpg), linear-gradient(50deg, #eee, #eee) }
 #milo .mitchalttitle, #milo .mitchaltcon b { color: #79844d; }
 
 #camael .mitchaltconborder { background-color: #0f698c;  }
@@ -68,7 +68,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #contessa .mitchalttitle, #contessa .mitchaltcon b { color: #821718; }
 
 #helena .mitchaltconborder { background-color: #7d604f;  }
-#helena .mitchaltide { background-image: url(https://i.postimg.cc/Zn6rhqBq/272646312-339301904865707-68422293364422729-n.jpg), linear-gradient(50deg, #7d604f, #666, #7d604f); background-position: 20% 20%; }
+#helena .mitchaltide { background-image: url(https://i.postimg.cc/hvfqPpH2/e8b0a4bd6405965b978162588a410c52.jpg), linear-gradient(50deg, #7d604f, #666, #7d604f); background-position: top center; }
 #helena .mitchalttitle, #helena .mitchaltcon b { color: #7d604f; }
 
 #cameel .mitchaltconborder { background-color: #80d2f2;  }
@@ -112,5 +112,5 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #sandra .mitchalttitle, #sandra .mitchaltcon b { color: #9acd32; }
 
 #zezrith .mitchaltconborder { background-color: #a3c0a2;  }
-#zezrith .mitchaltide { background-image: url(https://i.pinimg.com/564x/3f/bc/34/3fbc34297db31d653515627ab6a919ba.jpg), linear-gradient(50deg, #a3c0a2, #eee, #eee, #a3c0a2); background-position: bottom; filter:contrast(1.3); }
+#zezrith .mitchaltide { background-image: url(https://i.postimg.cc/gcTWBbZQ/1b793c27c594d68cf551cef236fde688.jpg), linear-gradient(50deg, #a3c0a2, #eee, #eee, #a3c0a2); background-position: bottom; filter:contrast(1.3); }
 #zezrith .mitchalttitle, #zezrith .mitchaltcon b { color: #a3c0a2; }
