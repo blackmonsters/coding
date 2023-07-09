@@ -96,7 +96,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #cora .mitchalttitle, #cora .mitchaltcon b { color: #ff8097; }
 
 #padma .mitchaltconborder { background-color: #f9db4a;  }
-#padma .mitchaltide { background-image: url(https://i.postimg.cc/W4F1xkrM/camael.png), linear-gradient(50deg, #eee, #666, #eee); }
+#padma .mitchaltide { background-image: url(https://i.postimg.cc/tT1LKD8y/padma.png), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #padma .mitchalttitle, #padma .mitchaltcon b { color: #f9db4a; }
 
 #fei .mitchaltconborder { background-color: #d9bea7;  }
