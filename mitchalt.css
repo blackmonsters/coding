@@ -77,7 +77,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #contessa .mitchaltide { background-image: url(https://i.postimg.cc/XYFnj8ZY/ed818dc85611b9b53093e480caf796ca.jpg), linear-gradient(50deg, #eee, #999, #eee); filter:contrast(1.5); }
 #contessa .mitchalttitle, #contessa .mitchaltcon b { color: #bc2121; }
 #contessa .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#contessa .mitchalttitle::after { content:"desire."; }
+#contessa .mitchalttitle::after { content:""; }
 
 #helena .mitchaltconborder { background-color: #7d604f;  }
 #helena .mitchaltide { background-image: url(https://i.postimg.cc/hvfqPpH2/e8b0a4bd6405965b978162588a410c52.jpg), linear-gradient(50deg, #eee, #fff, #fff, #eee); background-position: center; }
