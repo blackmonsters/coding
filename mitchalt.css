@@ -36,7 +36,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 
 .mitchalttitle { color: #777;  text-transform: lowercase; text-shadow: 2px 2px rgba(0,0,0,0.2); 
   font-family: Playfair Display; font-size:100px; font-weight: 900; text-align: right;
-  line-height: 100%; padding: 0px; margin: 120px 40px 0px 40px; }
+  line-height: 100%; padding: 0px; margin: 130px 40px 0px 40px; }
   
 .mitchalttitle::before { content:"letra de música"; font-size:10px; text-transform: uppercase; color: #fff; line-height: 16px; font-weight:400;text-align: left!important; display: block;}
 .mitchalttitle::after { content:"nome."; display: block;}
