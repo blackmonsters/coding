@@ -58,7 +58,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #greta .mitchaltconborder { background-color: #5b2491;  }
 #greta .mitchaltide { background-image: url(https://i.postimg.cc/xCyvgNPQ/gretaaa.png), linear-gradient(50deg, #eee, #999, #999, #eee); filter: contrast(1.2); }
 #greta .mitchalttitle, #greta .mitchaltcon b { color: #5b2491; }
-#greta .mitchalttitle::before { content:"I'm only honest when it rains / If I time it right, the thunder breaks / When I open my mouth / I wanna tell you, but I don't know how";padding-bottom: 60px;}
+#greta .mitchalttitle::before { content:"I'm only honest when it rains / If I time it right, the thunder breaks / When I open my mouth / I wanna tell you, but I don't know how";
+padding-bottom: 60px; padding-right: 110px;}
 #greta .mitchalttitle::after { content:"g."; }
 
 #ivan .mitchaltconborder { background-color: #ff8d00;  }
