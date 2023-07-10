@@ -53,7 +53,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #milo .mitchaltide { background-image: url(https://i.pinimg.com/564x/7b/1b/76/7b1b767903d3d4ef71abd8ae3a93b075.jpg), linear-gradient(50deg, #eee, #eee); background-position: top;}
 #milo .mitchalttitle, #milo .mitchaltcon b { color: #79844d; }
 #milo .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#milo .mitchalttitle::after { content:"grief"; }
+#milo .mitchalttitle::after { content:"grief."; }
 
 #camael .mitchaltconborder { background-color: #0f698c;  }
 #camael .mitchaltide { background-image: url(https://i.postimg.cc/BbTk2fN6/fbc2c008fdac393758f62ff37c74943c.jpg), linear-gradient(50deg, #eee, #666, #eee); background-position: top center; }
@@ -104,16 +104,16 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #ivy .mitchalttitle::after { content:"ivy."; }
 
 #billy .mitchaltconborder { background-color: #3eb595;  }
-#billy .mitchaltide { background-image: url(https://i.postimg.cc/63qMyzKP/desktop-wallpaper-lockscreen-supernatural-supernatural-impala-supernatural-supernatural-funny-67-imp.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
+#billy .mitchaltide { background-image: url(https://i.postimg.cc/tTFMNhcd/wincest0.png), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
 #billy .mitchalttitle, #billy .mitchaltcon b { color: #3eb595; }
-#billy .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#billy .mitchalttitle::after { content:"billy."; }
+#billy .mitchalttitle::before { content:"Because whatever we have between us… love, family, whatever it is…"; padding-bottom: 95px; padding-right: 0px;}
+#billy .mitchalttitle::after { content:"want."; }
 
 #pamela .mitchaltconborder { background-color: #bf6c07;  }
 #pamela .mitchaltide { background-image: url(https://i.postimg.cc/fWFhJb3R/lucas-lenzi-ee-FMA02k-Rog-unsplash.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #pamela .mitchalttitle, #pamela .mitchaltcon b { color: #bf6c07; }
 #pamela .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#pamela .mitchalttitle::after { content:"pammy."; }
+#pamela .mitchalttitle::after { content:"denial."; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
 #cora .mitchaltide { background-image: url(https://i.postimg.cc/6QXZ1L5P/db6d871c128770bcbda0e8313ca13dd4.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
