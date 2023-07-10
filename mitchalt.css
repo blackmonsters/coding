@@ -63,7 +63,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 
 #greta .mitchaltconborder { background-color: #5b2491;  }
 #greta .mitchaltide { background-image: url(https://i.postimg.cc/xCyvgNPQ/gretaaa.png), linear-gradient(50deg, #eee, #999, #999, #eee); filter: contrast(1.2); }
-#greta .mitchalttitle, #greta .mitchaltcon b { color: #5b2491; }
+#greta .mitchalttitle, #greta .mitchaltcon b { color: #844bbc; }
 #greta .mitchalttitle::before { content:"If I time it right, the thunder breaks when I open my mouth";padding-bottom: 95px; padding-right: 0px;}
 #greta .mitchalttitle::after { content:"g."; }
 
