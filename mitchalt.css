@@ -36,11 +36,11 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 
 .mitchalttitle { color: #777;  text-transform: lowercase; text-shadow: 2px 2px rgba(0,0,0,0.2); 
   font-family: Playfair Display; font-size:100px; font-weight: 900; text-align: right; font-style: italic;
-  line-height: 100%; padding: 0px; margin: 240px 40px 0px 40px; }
+  line-height: 100%; padding: 0px; margin: 140px 40px 0px 40px; }
   
-.mitchalttitle1 { color: #222;  text-transform: lowercase; 
-  font-family: Playfair Display; font-size:16px; font-style: italic; text-align: left; border-bottom: 1px solid #aaa;
-  line-height: 120%; padding: 30px 0px; margin: -20px 0px 40px 0px; }
+.mitchalttitle::before { content:"letra de música"; font-size:14px; text-transform: lowercase; color: #fff; line-height: 100%; font-weight:400;}
+.mitchalttitle::after { content:"nome."; display: block;}
+
   
 
 #jimmy .mitchaltconborder { background-color: #c76969;  }
@@ -58,6 +58,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #greta .mitchaltconborder { background-color: #5b2491;  }
 #greta .mitchaltide { background-image: url(https://i.postimg.cc/xCyvgNPQ/gretaaa.png), linear-gradient(50deg, #eee, #999, #999, #eee); filter: contrast(1.2); }
 #greta .mitchalttitle, #greta .mitchaltcon b { color: #5b2491; }
+#greta .mitchalttitle::before { content:"I'm only honest when it rains / If I time it right, the thunder breaks / When I open my mouth / I wanna tell you, but I don't know how";}
+#greta .mitchalttitle::after { content:"g."; }
 
 #ivan .mitchaltconborder { background-color: #ff8d00;  }
 #ivan .mitchaltide { background-image: url(https://i.postimg.cc/nM8Tx7SN/faa07baec6285662a46b9ecaa6d10105.jpg), linear-gradient(50deg, #fff, #999, #999, #fff); }
