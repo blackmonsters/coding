@@ -64,7 +64,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #greta .mitchaltconborder { background-color: #5b2491;  }
 #greta .mitchaltide { background-image: url(https://i.postimg.cc/xCyvgNPQ/gretaaa.png), linear-gradient(50deg, #eee, #999, #999, #eee); filter: contrast(1.2); }
 #greta .mitchalttitle, #greta .mitchaltcon b { color: #5b2491; }
-#greta .mitchalttitle::before { content:"If I time it right, the thunder breaks when I open my mouth";padding-bottom: 80px; padding-right: 0px;}
+#greta .mitchalttitle::before { content:"If I time it right, the thunder breaks when I open my mouth";padding-bottom: 95px; padding-right: 0px;}
 #greta .mitchalttitle::after { content:"g."; }
 
 #ivan .mitchaltconborder { background-color: #ff8d00;  }
@@ -77,13 +77,13 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #contessa .mitchaltide { background-image: url(https://i.postimg.cc/XYFnj8ZY/ed818dc85611b9b53093e480caf796ca.jpg), linear-gradient(50deg, #eee, #999, #eee); filter:contrast(1.5); }
 #contessa .mitchalttitle, #contessa .mitchaltcon b { color: #bc2121; }
 #contessa .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#contessa .mitchalttitle::after { content:"c."; }
+#contessa .mitchalttitle::after { content:"sanctus."; }
 
 #helena .mitchaltconborder { background-color: #7d604f;  }
 #helena .mitchaltide { background-image: url(https://i.postimg.cc/hvfqPpH2/e8b0a4bd6405965b978162588a410c52.jpg), linear-gradient(50deg, #eee, #fff, #fff, #eee); background-position: center; }
 #helena .mitchalttitle, #helena .mitchaltcon b { color: #7d604f; }
 #helena .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#helena .mitchalttitle::after { content:"c."; }
+#helena .mitchalttitle::after { content:"hell."; }
 
 #cameel .mitchaltconborder { background-color: #80d2f2;  }
 #cameel .mitchaltide { background-image: url(https://i.postimg.cc/hvPt8LNm/cameel.png), linear-gradient(50deg, #666, #fff, #fff, #666); }
@@ -95,7 +95,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #santiago .mitchaltide { background-image: url(https://i.postimg.cc/cHD3VmGs/62f66e3ebdc38c67e81d71b120a82236.jpg), linear-gradient(50deg, #fff, #666, #666, #fff); background-position: center right; }
 #santiago .mitchalttitle, #santiago .mitchaltcon b { color: #ae4b2a; }
 #santiago .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#santiago .mitchalttitle::after { content:"c."; }
+#santiago .mitchalttitle::after { content:"fear."; }
 
 #ivy .mitchaltconborder { background-color: #eee;  }
 #ivy .mitchaltide { background-image: url(https://i.postimg.cc/Jn4m2wL2/Edition-7-running-like-water.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
@@ -107,46 +107,46 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #billy .mitchaltide { background-image: url(https://i.postimg.cc/63qMyzKP/desktop-wallpaper-lockscreen-supernatural-supernatural-impala-supernatural-supernatural-funny-67-imp.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
 #billy .mitchalttitle, #billy .mitchaltcon b { color: #3eb595; }
 #billy .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#billy .mitchalttitle::after { content:"c."; }
+#billy .mitchalttitle::after { content:"billy."; }
 
 #pamela .mitchaltconborder { background-color: #bf6c07;  }
 #pamela .mitchaltide { background-image: url(https://i.postimg.cc/fWFhJb3R/lucas-lenzi-ee-FMA02k-Rog-unsplash.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #pamela .mitchalttitle, #pamela .mitchaltcon b { color: #bf6c07; }
 #pamela .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#pamela .mitchalttitle::after { content:"c."; }
+#pamela .mitchalttitle::after { content:"pammy."; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
 #cora .mitchaltide { background-image: url(https://i.postimg.cc/6QXZ1L5P/db6d871c128770bcbda0e8313ca13dd4.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #cora .mitchalttitle, #cora .mitchaltcon b { color: #ff8097; }
 #cora .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#cora .mitchalttitle::after { content:"c."; }
+#cora .mitchalttitle::after { content:"cora."; }
 
 #padma .mitchaltconborder { background-color: #f9db4a;  }
 #padma .mitchaltide { background-image: url(https://i.postimg.cc/tT1LKD8y/padma.png), linear-gradient(50deg, #eee, #fff, #fff, #eee); }
 #padma .mitchalttitle, #padma .mitchaltcon b { color: #f9db4a; }
 #padma .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#padma .mitchalttitle::after { content:"c."; }
+#padma .mitchalttitle::after { content:"rushdie."; }
 
 #fei .mitchaltconborder { background-color: #d9bea7;  }
 #fei .mitchaltide { background-image: url(https://i.pinimg.com/564x/38/7e/39/387e393423e5f02ace60eb373acbfade.jpg), linear-gradient(50deg, #d9bea7, #666, #666, #d9bea7); background-position: center right; }
 #fei .mitchalttitle, #fei .mitchaltcon b { color: #d9bea7; }
 #fei .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#fei .mitchalttitle::after { content:"c."; }
+#fei .mitchalttitle::after { content:"fei."; }
 
 #victor .mitchaltconborder { background-color: #a66eb6;  }
 #victor .mitchaltide { background-image: url(https://i.postimg.cc/QtN3vXSG/46110717fb2ec4db94432a5dd809bfd3.jpg), linear-gradient(50deg, #eee, #666, #fff, #666); background-position: center; filter:contrast(1); }
 #victor .mitchalttitle, #victor .mitchaltcon b { color: #a66eb6; }
 #victor .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#victor .mitchalttitle::after { content:"c."; }
+#victor .mitchalttitle::after { content:"burns."; }
 
 #sandra .mitchaltconborder { background-color: #9acd32;  }
 #sandra .mitchaltide { background-image: url(https://i.postimg.cc/NGS02HpK/hwasa11111.png), linear-gradient(50deg, #fff, #eee, #eee, #fff); background-position: center right; filter:contrast(1.2); }
 #sandra .mitchalttitle, #sandra .mitchaltcon b { color: #9acd32; }
 #sandra .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#sandra .mitchalttitle::after { content:"c."; }
+#sandra .mitchalttitle::after { content:"hill."; }
 
 #zezrith .mitchaltconborder { background-color: #a3c0a2;  }
 #zezrith .mitchaltide { background-image: url(https://i.postimg.cc/gcTWBbZQ/1b793c27c594d68cf551cef236fde688.jpg), linear-gradient(50deg, #eee, #999, #999, #eee); background-position: bottom; filter:contrast(1.3); }
 #zezrith .mitchalttitle, #zezrith .mitchaltcon b { color: #a3c0a2; }
 #zezrith .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#zezrith .mitchalttitle::after { content:"c."; }
+#zezrith .mitchalttitle::after { content:"devil."; }
