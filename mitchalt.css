@@ -134,7 +134,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #fei .mitchalttitle::after { content:"fei."; }
 
 #victor .mitchaltconborder { background-color: #a66eb6;  }
-#victor .mitchaltide { background-image: url(https://i.postimg.cc/QtN3vXSG/46110717fb2ec4db94432a5dd809bfd3.jpg), linear-gradient(50deg, #eee, #666, #fff, #666); background-position: center; filter:contrast(1); }
+#victor .mitchaltide { background-image: url(https://i.postimg.cc/QtN3vXSG/46110717fb2ec4db94432a5dd809bfd3.jpg), linear-gradient(50deg, #eee, #666, #fff, #666); background-position: center; filter:contrast(1.3); }
 #victor .mitchalttitle, #victor .mitchaltcon b { color: #a66eb6; }
 #victor .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
 #victor .mitchalttitle::after { content:"burns."; }
