@@ -38,8 +38,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   font-family: Playfair Display; font-size:100px; font-weight: 900; text-align: right;
   line-height: 100%; padding: 0px; margin: 130px 40px 0px 40px; }
   
-.mitchalttitle::before { content:"letra de música"; font-size:10px; text-transform: uppercase; color: #fff; line-height: 16px; font-weight:400;text-align: left!important; display: block;}
-.mitchalttitle::after { content:"nome."; display: block;}
+.mitchalttitle::before { content:"letra de música"; font-size:10px; text-transform: uppercase; color: #fff; line-height: 16px; font-weight:400;text-align: left!important; display: block; font-style: none;}
+.mitchalttitle::after { content:"nome."; display: block; font-style: italic;}
 
   
 
