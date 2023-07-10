@@ -100,8 +100,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #ivy .mitchaltconborder { background-color: #eee;  }
 #ivy .mitchaltide { background-image: url(https://i.postimg.cc/Jn4m2wL2/Edition-7-running-like-water.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
 #ivy .mitchalttitle, #ivy .mitchaltcon b { color: #999; }
-#ivy .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#ivy .mitchalttitle::after { content:"c."; }
+#ivy .mitchalttitle::before { content:"every song i thought i knew i've been deafened to"; padding-bottom: 90px; padding-right: 0px;}
+#ivy .mitchalttitle::after { content:"ivy."; }
 
 #billy .mitchaltconborder { background-color: #3eb595;  }
 #billy .mitchaltide { background-image: url(https://i.postimg.cc/63qMyzKP/desktop-wallpaper-lockscreen-supernatural-supernatural-impala-supernatural-supernatural-funny-67-imp.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: center right; }
