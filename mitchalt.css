@@ -142,8 +142,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #sandra .mitchaltconborder { background-color: #9acd32;  }
 #sandra .mitchaltide { background-image: url(https://i.postimg.cc/NGS02HpK/hwasa11111.png), linear-gradient(50deg, #fff, #eee, #eee, #fff); background-position: center right; filter:contrast(1.2); }
 #sandra .mitchalttitle, #sandra .mitchaltcon b { color: #9acd32; }
-#sandra .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#sandra .mitchalttitle::after { content:"hill."; }
+#sandra .mitchalttitle::before { content:"You did some bad things, but I'm the worst of them"; padding-bottom: 95px; padding-right: 0px;}
+#sandra .mitchalttitle::after { content:""; }
 
 #zezrith .mitchaltconborder { background-color: #a3c0a2;  }
 #zezrith .mitchaltide { background-image: url(https://i.postimg.cc/gcTWBbZQ/1b793c27c594d68cf551cef236fde688.jpg), linear-gradient(50deg, #eee, #999, #999, #eee); background-position: bottom; filter:contrast(1.3); }
