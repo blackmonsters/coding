@@ -46,8 +46,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #jimmy .mitchaltconborder { background-color: #c76969;  }
 #jimmy .mitchaltide { background-image: url(https://i.postimg.cc/DfLnF8Lq/3e379ae03506d74060ccad23f5658638.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); background-position: top; filter: contrast(1.4);}
 #jimmy .mitchalttitle, #jimmy .mitchaltcon b { color: #c76969; }
-#jimmy .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
-#jimmy .mitchalttitle::after { content:"dead."; }
+#jimmy .mitchalttitle::before { content:"There is no place like home when you got no place to go"; padding-bottom: 95px; padding-right: 0px;}
+#jimmy .mitchalttitle::after { content:""; }
 
 #milo .mitchaltconborder { background-color: #79844d;  }
 #milo .mitchaltide { background-image: url(https://i.pinimg.com/564x/7b/1b/76/7b1b767903d3d4ef71abd8ae3a93b075.jpg), linear-gradient(50deg, #eee, #eee); background-position: top;}
