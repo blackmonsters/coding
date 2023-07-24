@@ -72,6 +72,9 @@ font-size: 8px;}
 #abbyzou .pupscon, #demonio .pupscon { background-image: linear-gradient(180deg, #374936, #789676);}
 #abbyzou .pupscon b, #demonio .pupscon b { color: #A3C0A2; }
 
-#jane .pupscon, #kiangshi .pupscon { background-image: linear-gradient(180deg, #191501, #191501);}
-#jane .pupscon b, #kiangshi .pupscon b { color: #f9db4a; }
+#jane .pupscon, #djinn .pupscon { background-image: linear-gradient(180deg, #191501, #191501);}
+#jane .pupscon b, #djinn.pupscon b { color: #f9db4a; }
+
+#hikaru .pupscon, #kiangshi .pupscon { background-image: linear-gradient(180deg, #665549, #665549);}
+#hikaru .pupscon b, #kiangshi .pupscon b { color: #D9BEA7; }
 
