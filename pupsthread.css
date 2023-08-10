@@ -78,3 +78,6 @@ font-size: 8px;}
 #hikaru .pupscon, #kiangshi .pupscon { background-image: linear-gradient(180deg, #665549, #665549);}
 #hikaru .pupscon b, #kiangshi .pupscon b { color: #D9BEA7; }
 
+#josie .pupscon, #anjo .pupscon { background-image: linear-gradient(180deg, #0f698c, #0a465b);}
+#josie .pupscon b, #anjo .pupscon b { color: #81d0ea; }
+
