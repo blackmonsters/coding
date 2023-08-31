@@ -22,7 +22,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   font-weight: 700; }
 
 .mitchaltcon .mitchaltpost { grid-area: mitchavapost;
-  padding: 0px 60px 0px 60px; white-space: pre-wrap;
+  padding: 20px 80px 20px 80px; white-space: pre-wrap;
   text-align: justify; margin: 0px;
   font-family: Frank Ruhl Libre;
   font-size: 12px!important;
