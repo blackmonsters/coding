@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap');
 
 
-.mitchaltconborder { width: 70%; margin: 50px auto; border-radius: 0px 20px;
-  background: url('https://i.imgur.com/bwWI5xb.png'); padding-top: 0px; padding-bottom:0px;
+.mitchaltconborder { width: 70%; margin: 50px auto;
+  background: url('https://i.imgur.com/bwWI5xb.png');
 background-size: cover; background-attachment: fixed; background-blend-mode: multiply;}
 
 .mitchaltcon { color: #ddd; 
