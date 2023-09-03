@@ -3,7 +3,7 @@
 
 
 .mitchaltconborder { width: 65%; margin: 50px auto; border-radius: 15px 0px;
-  background: url('https://i.imgur.com/bwWI5xb.png'); border:1px solid rgba(255,255,255,0.1);
+  background: url('https://i.imgur.com/bwWI5xb.png');
 background-size: cover; background-attachment: fixed; background-blend-mode: multiply;}
 
 .mitchaltcon { color: #ddd; 
