@@ -25,7 +25,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
   padding: 20px 80px 20px 80px; white-space: pre-wrap;
   text-align: justify; margin: 0px;
   font-family: Frank Ruhl Libre;
-  font-size: 12px!important;
+  font-size: 13px!important;
   line-height: 200%; color: #ddd; }
 
 .mitchaltide { width: 100%; border-radius: 15px 0px;
@@ -124,7 +124,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #padma .mitchaltconborder { background-color: #f9db4a;  }
 #padma .mitchaltide { background-image: url(https://i.postimg.cc/tT1LKD8y/padma.png), linear-gradient(50deg, #eee, #fff, #fff, #eee); }
 #padma .mitchalttitle, #padma .mitchaltcon b { color: #f9db4a; }
-#padma .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
+#padma .mitchalttitle::before { content:"Leave all your love and your longing behind, you can't carry it with you if you want to survive"; padding-bottom: 95px; padding-right: 0px;}
 #padma .mitchalttitle::after { content:"rushdie."; }
 
 #fei .mitchaltconborder { background-color: #d9bea7;  }
