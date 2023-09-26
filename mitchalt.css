@@ -112,7 +112,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #pamela .mitchaltconborder { background-color: #bf6c07;  }
 #pamela .mitchaltide { background-image: url(https://i.postimg.cc/fWFhJb3R/lucas-lenzi-ee-FMA02k-Rog-unsplash.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #pamela .mitchalttitle, #pamela .mitchaltcon b { color: #bf6c07; }
-#pamela .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
+#pamela .mitchalttitle::before { content:"Leave all your love and your longing behind, you can't carry it with you if you want to survive"; padding-bottom: 95px; padding-right: 0px;}
 #pamela .mitchalttitle::after { content:""; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
@@ -124,8 +124,8 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #padma .mitchaltconborder { background-color: #f9db4a;  }
 #padma .mitchaltide { background-image: url(https://i.postimg.cc/tT1LKD8y/padma.png), linear-gradient(50deg, #eee, #fff, #fff, #eee); }
 #padma .mitchalttitle, #padma .mitchaltcon b { color: #f9db4a; }
-#padma .mitchalttitle::before { content:"Leave all your love and your longing behind, you can't carry it with you if you want to survive"; padding-bottom: 95px; padding-right: 0px;}
-#padma .mitchalttitle::after { content:"rushdie."; }
+#padma .mitchalttitle::before { content:""; padding-bottom: 95px; padding-right: 0px;}
+#padma .mitchalttitle::after { content:""; }
 
 #fei .mitchaltconborder { background-color: #d9bea7;  }
 #fei .mitchaltide { background-image: url(https://i.pinimg.com/564x/38/7e/39/387e393423e5f02ace60eb373acbfade.jpg), linear-gradient(50deg, #d9bea7, #666, #666, #d9bea7); background-position: center right; }
