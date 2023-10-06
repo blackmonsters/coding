@@ -116,9 +116,9 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #pamela .mitchalttitle::after { content:""; }
 
 #cora .mitchaltconborder { background-color: #ff8097;  }
-#cora .mitchaltide { background-image: url(https://i.postimg.cc/6QXZ1L5P/db6d871c128770bcbda0e8313ca13dd4.jpg), linear-gradient(50deg, #eee, #666, #666, #eee); }
+#cora .mitchaltide { background-image: url(https://i.imgur.com/L9aQA1N.png), linear-gradient(50deg, #eee, #666, #666, #eee); }
 #cora .mitchalttitle, #cora .mitchaltcon b { color: #ff8097; }
-#cora .mitchalttitle::before { content:"but you need to go to war to find material to sing"; padding-bottom: 95px; padding-right: 0px;}
+#cora .mitchalttitle::before { content:"say you'll remember me standing in a nice dress staring at the sunset"; padding-bottom: 95px; padding-right: 0px;}
 #cora .mitchalttitle::after { content:""; }
 
 #padma .mitchaltconborder { background-color: #f9db4a;  }
