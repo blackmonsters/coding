@@ -46,7 +46,7 @@ background-size: cover; background-attachment: fixed; background-blend-mode: mul
 #jimmy .mitchaltconborder { background-color: #3d2222;  }
 #jimmy .mitchaltide { background-image: url(https://i.imgur.com/dBbqI5Y.jpg), linear-gradient(50deg, #999, #fff, #eee, #999); background-position: center; filter: contrast(1.6) invert(0.2);}
 #jimmy .mitchalttitle, #jimmy .mitchaltcon b { color: #c76969; }
-#jimmy .mitchalttitle::before { content:"There is no place like home when you got no place to go"; padding-bottom: 105px; padding-right: 0px; color: #000;}
+#jimmy .mitchalttitle::before { content:"but i got no place to go"; padding-bottom: 105px; padding-right: 0px; color: #000;}
 #jimmy .mitchalttitle::after { content:""; }
 
 #milo .mitchaltconborder { background-color: #79844d;  }
