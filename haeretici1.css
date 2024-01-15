@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+
+.cecinneconborder { border: 1px solid rgba(255,255,255,0.1); width: 570px; margin: 50px auto;}*
+
+#joe .cecinneconborder { border: 1px solid #3eb595; }
+#joe .cecinneide { background-image: url(https://i.imgur.com/bwWI5xb.png)!important, linear-gradient(190deg, #4A8573, #4A8573); }
+#alicia .cecinneconborder { border: 1px solid #5b2491;}
+#alicia { background-image: url(https://i.imgur.com/bwWI5xb.png)!important, linear-gradient(190deg, #4A8573, #4A8573); }
+
+
+.cecinnecon { color: #EEE; 
+    width: 575px; margin: -20px 10px;
+    background-color: #050505;
+
+  display: grid;
+  grid-template-columns:  100px auto;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "viavagif viavapost"
+    "viavagif viavapost";}
+
+.cecinnecon b { color: #ff0000;
+  padding: 2px 0px;
+  font-weight: 700; }
+
+.cecinnecon .cecinnepost { grid-area: viavapost;
+  padding: 60px;
+  text-align: justify; margin: 0px;
+  font-family: Monda;
+  font-size: 12px!important;
+  line-height: 220%; }
+
+.cecinnecon .cecinneide { width: 100%;
+  grid-area: viavagif; background-blend-mode: multiply; background-size: cover; background-position: center; background-attachment: fixed; height: 100%!important;
+  text-transform: uppercase; font-family: monda;
+  font-size: 8px;
+  letter-spacing: 1px; justify-content: space-evenly;}
+
+.cecinnegif { width: 100px; height: 100px; background-size: cover; background-position: center; position: sticky; top: 0px;}
+
+.cecinnetitle { color: #fff;
+  font-family: Staatliches; font-size:23px; font-weight: 100; text-align: left;
+  line-height: 90%; padding: 15px;}
+  
+.cecinnemood { width: 80px; background-size: cover; background-position: center; position: sticky; top: 20px; height:300px;}
+
+
+
+.yungbludconborder { border: 1px solid #050505; width: 570px; margin: 50px auto;}
+
+.yungbludcon { color: #EEE; 
+    width: 550px; margin: -20px 10px;
+    background-color: #050505;
+
+  display: grid;
+  grid-template-columns:  100px auto;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "vavagif vavapost"
+    "vavagif vavapost";}
+
+.yungbludcon b { color: #ff0000;
+  padding: 2px 0px;
+  font-weight: 700; }
+
+.yungbludcon .yungbludpost { grid-area: vavapost;
+  padding: 10px 60px 20px 60px;
+  text-align: justify; margin: 0px;
+  font-family: Monda; white-space: pre-wrap;
+  font-size: 10px!important;
+  line-height: 220%; }
+
+.yungbludide { width: 100%;
+  grid-area: vavagif; background-blend-mode: multiply; background-size: cover; background-position: center; background-attachment: fixed; height: 100%;
+  text-transform: uppercase; font-family: monda;
+  font-size: 8px;
+  letter-spacing: 1px; justify-content: space-evenly;}
+
+.yungbludgif { width: 100px; height: 100px; background-size: cover; background-position: center; position: sticky; top: 0px;}
+
+.yungbludtitle { color: #fff;
+  font-family: Staatliches; font-size:23px; font-weight: 100; text-align: left;
+  line-height: 90%; padding: 15px;}
+  
+.yungbludmood { width: 80px; background-size: cover; background-position: center; position: sticky; top: 20px; height:300px;}
+
+
+
+
+#jimmy .yungbludgif { background-image: url(https://i.imgur.com/Y0UA0x8.gif), linear-gradient(190deg, #C76969, #C76969);  background-blend-mode: multiply; }
+#jimmy .yungbludide { background-image: var(--background1), linear-gradient(190deg, #C76969, #C76969); background-size: cover;
+ background-repeat: no-repeat;
+    background-attachment: fixed;
+ background-position: 50% 30%; }
+#jimmy .yungbludcon b { color: #C76969; }
+
+
