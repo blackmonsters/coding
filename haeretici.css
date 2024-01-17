@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monda:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital@0;1&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+
+.surreal { width: 500px; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--darkgray); }
+.surreal b {  background-color: rgba(255,255,255,0.1); color: var(--white); padding: 2px 0px; font-weight: 700; }
+.surreal .text, .surreal .text1 { width: calc(500px - 100px); border-top: 2px solid #DDDDDD;  border-bottom: 2px solid #DDDDDD; font-family: frank ruhl libre!important; font-size: 12px!important; line-height: 220%; white-space: pre-wrap; padding: 10px 50px!important;}
+
+#greta .surreal b { color: #631ea8; }
+#greta .surreal .text { border-top: 2px solid #4B2273;  border-bottom: 2px solid #4B2273; }
+
+#zez .surreal b { color: #A3C0A2; }
+#zez .surreal .text { border-top: 2px solid #A3C0A2;  border-bottom: 2px solid #A3C0A2;}
+
+#camael .surreal b { color: #0F698C; }
+#camael .surreal .text { border-top: 2px solid #0F698C;  border-bottom: 2px solid #0F698C;}
+
+
+.graveyard { width: 60%; margin: 30px auto; color: #fff; background: rgba(255,255,255,0.1); border-radius: 5px; }
+.graveyard b { font-weight: 800; padding: 2px 0px;}
+.graveyard .text,.graveyard .text1 { padding: 10px 70px; font-family: Old Standard TT; font-size: 13px; line-height: 210%; white-space: pre-wrap; color: #bbb;}
+
+
+.badguy { max-width: 60%; padding: 50px; margin: 30px auto; background: rgba(1,1,1,0.1); border-radius: 15px;}
+.badguy .text, .badguy .text1 { padding: 0px 50px; font-family: Amiri; font-size: 14px; color: var(--white); line-height: 190%; white-space: pre-wrap; }
+
+
+
+
+
+.dramaclub {width: 520px; margin: 30px auto; border: 0px solid var(--white);  border-radius: 5px; background: rgb(255,129,10);
+background: linear-gradient(360deg, hsla(0, 0%, 21%, 1) 0%, hsla(0, 0%, 65%, 1) 100%); color: #fff; }
+.dramaclub b { color: #fff; background: rgba(0,0,0,0.2); padding: 2px 0px; font-weight: 700;}
+.dramaclub .text, .dramaclub .text1 { width: calc(520px - 160px); padding: 10px 80px!important; font-family: lato; font-size: 13px!important; line-height: 220%; white-space: pre-wrap; color:#fff!important;}
+
+
+
+#zez .dramaclub { background: rgb(255,129,10); background: linear-gradient(360deg, hsla(0, 33%, 18%, 1) 0%, hsla(118, 13%, 57%, 1) 100%); }
+#zez .dramaclub b { color: #fff; }
+
+#greta .dramaclub {  border-radius: 5px; background: rgb(255,129,10);
+background: linear-gradient(360deg, hsla(0, 33%, 18%, 1) 0%, hsla(261, 13%, 56%, 1) 100%); }
+#greta .dramaclub b { color: #fff; }
+
+#tessa .dramaclub {  border-radius: 5px; background: hsla(0, 100%, 12%, 1);
+background: linear-gradient(360deg, hsla(0, 100%, 12%, 1) 0%, hsla(0, 63%, 45%, 1) 100%); }
+#tessa .dramaclub b { color: #fff; }
+
+#ivan .dramaclub {  border-radius: 5px; background: hsla(23, 100%, 12%, 1);
+background-image: linear-gradient(180deg, #91503e, #643b35, #3a272c, #0d1423) }
+#ivan .dramaclub b { color: #fff; }
+
+#camael .dramaclub {  border-radius: 5px; background: hsla(23, 100%, 12%, 1);
+background-image: linear-gradient(180deg, #166B8B, #140B0B); }
+#camael .dramaclub b { color: #fff; }
+
+
+  .whispers { color: rgba(255,255,255,0.8);
+    width: 560px; 
+    margin: 30px auto; 
+    border: 0px solid var(--white);  
+    background-attachment: fixed;
+    background-size:cover;
+    background-color: #666666; padding: 20px 0px; outline: 1px solid #000;
+    background-blend-mode: multiply; outline-offset: 1px;}
+    
+.whispers b { 
+  background: rgba(0,0,0,0.6); 
+  padding: 2px 0px; 
+  font-weight: 400;}
+  
+.whispers .text, .whispers .text1 { width: calc(560px - 200px); 
+  padding: 10px 100px!important;
+  text-align: justify; letter-spacing: 0px;
+  font-family: old standard tt; 
+  font-size: 13px; font-weight: 400; 
+  line-height: 240%; 
+  white-space: pre-wrap;}
+
+.darlin { margin: 50px 0px 0px 0px;  
+  padding: 20px; line-height: 200%; font-family: old standard tt;
+  text-transform: lowercase;
+  font-size: 10px; text-align: right;
+  letter-spacing: 2px; border-right: 1px solid rgba(255,255,255,0.8);}
+
+#tessa .whispers { background-color: #560101; background-image: url(https://i.imgur.com/tacPEAx.jpg);}
+#tessa .whispers b { color: #e85f5f;}
+
+#ivan .whispers { background-color: #84765f; background-image: url(https://i.imgur.com/2TiACql.png);}
+#ivan .whispers b { color: #F2B05E; background: rgba(0,0,0,0.1);}
+
+#camael .whispers { background-color: #00212b; background-image: url(https://i.imgur.com/ZWe71AP.png);}
+#camael .whispers b { color: #0f698c;}
+
+#zez .whispers { background-color: #4b594a; background-image: url(https://i.imgur.com/xW0bKn4.png);}
+#zez .whispers b { color: #a3c0a2;}
+
+#greta .whispers { background-color: #241138; background-image: url(https://i.imgur.com/ZWe71AP.png);}
+#greta .whispers b { color: #9c78bc;}
+
+#ivy .whispers { background-color: #666; background-image: url(https://i.imgur.com/ZWe71AP.png); outline: 1px solid #444; text-transform: lowercase;}
+#ivy .whispers b { color: #000; background: rgba(255,255,255,0.4);}
+
+#viktor .whispers { background-color: #241138; background-image: url(https://i.imgur.com/ZWe71AP.png);}
+#viktor .whispers b { color: #9c78bc;}
+
+
+
+/* ---- TRACKER ----- */
+
+
+.holder { width: 80%; margin: auto; font-family: monda; font-size: 12px;  text-transform: lowercase; text-align: justify; padding: 50px; background-color: rgba(0,0,0,0.2); }
+
+.holder h1 { border-bottom: 1px solid #aaa; padding-bottom: 20px; margin-bottom: 3px; text-transform: uppercase; }
+.holder i { margin-right: 10px;}
+
+.holder .thread { font-family: monda; font-size: 11px; padding: 12px 0px; border-bottom: 1px solid rgba(255,255,255,0.1); text-transform: uppercase;}
+
+.holder .thread a:link, .holder .thread a:active, .holder .thread a:visited { text-decoration: none; }
+
+.holder .thread h2 { font-size: 10px; display: inline-grid; background: #eee;padding: 2px 5px; border-radius: 5px; margin: 0px 5px; text-transform: uppercase;}
+
+#witch .holder { border: 0px solid var(--white); }
+#witch .holder h1 {border-bottom: 3px solid #4B2273;}
+#witch .holder .thread h2 { background: #4B2273; color: #fbfbfb;}
+#witch .holder .thread a:hover { color: #4B2273;}
+
+#demon .holder { border: 0px solid var(--white);}
+#demon .holder h1 {border-bottom: 3px solid #A3C0A2;}
+#demon .holder .thread h2 { background: #A3C0A2; color: #fbfbfb;}
+#demon .holder .thread a:hover { color: #A3C0A2;}
+
+
+#vamp .holder { border: 0px solid var(--white);}
+#vamp .holder h1 {border-bottom: 1px solid #750a0a;}
+#vamp .holder .thread h2 { background: #750a0a; color: #fbfbfb;}
+#vamp .holder .thread a:hover { color: #750a0a;}
+
+#wolf .holder { border: 0px solid var(--white);}
+#wolf .holder h1 {border-bottom: 1px solid #f2b05e;}
+#wolf .holder .thread h2 { background: #f2b05e; color: #fbfbfb;}
+#wolf .holder .thread a:hover { color: #f2b05e;}
+
+#angel .holder { border: 0px solid var(--white); }
+#angel .holder h1 {border-bottom: 3px solid #0f698c;}
+#angel .holder .thread h2 { background: #0f698c; color: #fbfbfb;}
+#angel .holder .thread a:hover { color: #0f698c;}
+
+#youkai .holder { border: 0px solid var(--white); }
+#youkai .holder h1 {border-bottom: 3px solid #C76969;}
+#youkai .holder .thread h2 { background: #C76969; color: #fbfbfb;}
+#youkai .holder .thread a:hover { color: #C76969;}
+
+#banshee .holder { border: 0px solid var(--white); }
+#banshee .holder h1 {border-bottom: 3px solid #fb31d5;}
+#banshee .holder .thread h2 { background: #fb31d5; color: #fbfbfb;}
+#banshee .holder .thread a:hover { color: #fb31d5;}
+
+
+
+    .mitchversocon { color: #ddd;
+      width: 70%; outline: 1px solid rgba(255,255,255,0.1); outline-offset: 0px;
+      margin: 30px auto;
+      background-blend-mode: multiply; border-radius: 15px;
+
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "mitchversopost";}
+
+  .mitchversocon b { color: #000;
+    padding: 2px 0px;
+    font-weight: 700; }
+    
+  .mitchversocon .mitchversopost { grid-area: mitchversopost;
+    padding: 50px 70px;
+    text-align: justify;
+    font-family: Frank Ruhl Libre;
+    font-size: 12px!important; white-space: pre-wrap;
+    line-height: 230%;}
+
+.mitchversoquote::before { content: "texto aqui"; text-transform: uppercase; font-size: 8px; letter-spacing: 2px; }
+.mitchversoquote { padding: 20px 20px 0px 20px; margin-bottom: -10px;}
+
+  .mitchversocon b { font-size: 12px; font-weight: 700; }
+
+
+#ivan .mitchversocon { background: url(https://i.imgur.com/XUR9b3J.png), linear-gradient(0deg, rgba(205,117,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#ivan .mitchversocon b { color: #cd7500; }
+#ivan .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#pamela .mitchversocon { background: url(https://i.imgur.com/VcOd02x.png), linear-gradient(0deg, rgba(205,117,0,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#pamela .mitchversocon b { color: #cd7500; }
+#pamela .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+#contessa .mitchversocon { background: url(https://i.imgur.com/tacPEAx.jpg), linear-gradient(0deg, rgba(73,14,14,1) 0%, rgba(21,21,21,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#contessa .mitchversocon b { color: #e85f5f; }
+#contessa .mitchversoquote::before { content: "Tuck a knife with my heart up my sleeve / And fuck like a demon / Do it like nothin' / I am disgustin' / I've been corrupted / And by now I don't need no help to be destructive / I've been gone / Yeah, I've been on this road too long";}
+
+#greta .mitchversocon { background: url(https://i.imgur.com/bwWI5xb.png), linear-gradient(0deg, rgba(58,24,91,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#greta .mitchversocon b { color: #9759d4; }
+#greta .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#billy .mitchversocon { background: url(https://i.imgur.com/RrlE34j.png), linear-gradient(0deg, rgba(42,136,122,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#billy .mitchversocon b { color: rgba(62,181,149,1); }
+#billy .mitchversoquote::before { content: "I need my golden crown of sorrow / My bloody sword to swing / My empty halls to echo with grand self-mythology / I am no mother / I am no bride / I am King";}
+
+#camael .mitchversocon { background: url(https://i.imgur.com/GNGkNqW.jpg), linear-gradient(0deg, rgba(15,105,140,1) 0%, rgba(0,0,0,0.8) 50%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#camael .mitchversocon b { color: rgba(15,105,140,1); }
+#camael .mitchversoquote::before { content: "I need my golden crown of sorrow / My bloody sword to swing / My empty halls to echo with grand self-mythology / I am no mother / I am no bride / I am King";}
+
+#cameel .mitchversocon { background: url(https://i.imgur.com/E83Yqi0.png), linear-gradient(0deg, rgba(60,100,120,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#cameel .mitchversocon b { color: #80D2F2; }
+#cameel .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+#hell .mitchversocon { background: url(https://i.imgur.com/bwWI5xb.png), linear-gradient(0deg, rgba(125,96,79,1) 0%, rgba(0,0,0,1) 70%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#hell .mitchversocon b { color: #7d604f; }
+#hell .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+
+#santiago .mitchversocon { background: url(https://i.imgur.com/kf6A8YS.png), linear-gradient(0deg, rgba(174,75,42,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#santiago .mitchversocon b { color: rgba(174,75,42,1); }
+#santiago .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#ivy .mitchversocon { background: url(https://i.imgur.com/kf6A8YS.png), linear-gradient(0deg, rgba(174,75,42,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#ivy .mitchversocon b { color: rgba(174,75,42,1); }
+#ivy .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#cora .mitchversocon { background: url(https://i.imgur.com/ZWe71AP.png), linear-gradient(0deg, rgba(255,128,151,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#cora .mitchversocon b { color: #ff8097; }
+#cora .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#milo .mitchversocon { background: url(https://i.imgur.com/kf6A8YS.png), linear-gradient(0deg, rgba(174,75,42,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
+#milo .mitchversocon b { color: rgba(174,75,42,1); }
+#milo .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
