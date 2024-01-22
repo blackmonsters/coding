@@ -40,7 +40,7 @@
 #hunter .surreal .text { border-top: 2px solid var(--gcolor9);  border-bottom: 2px solid var(--gcolor9);}
 
 
-.graveyard { width: 80%; margin: 30px auto; color: #fff; background: rgba(255,255,255,0.1); border-radius: 5px; }
+.graveyard { width: 80%; margin: 30px auto; color: var(--whitepost); background: rgba(255,255,255,0.1); border-radius: 5px; }
 .graveyard b { font-weight: 800; padding: 2px 0px;}
 .graveyard .text,.graveyard .text1 { padding: 10px 70px; font-family: Old Standard TT; font-size: 13px; line-height: 210%; white-space: pre-wrap; color: #bbb;}
 
