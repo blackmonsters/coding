@@ -5,32 +5,32 @@
 
 #bruxo .surreal b { color: var(--gcolor6); }
 #bruxo .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6); }
-#demonio .surreal b { color: var(--gcolor6); }
-#demonio .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#anjo .surreal b { color: var(--gcolor6); }
-#anjo .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#djinn .surreal b { color: var(--gcolor6); }
-#djinn .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#fae .surreal b { color: var(--gcolor6); }
-#fae .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#polimorfo .surreal b { color: var(--gcolor6); }
-#polimorfo .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#oneiroi .surreal b { color: var(--gcolor6); }
-#oneiroi .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#vampiro .surreal b { color: var(--gcolor6); }
-#vampiro .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#lobisomem .surreal b { color: var(--gcolor6); }
-#lobisomem .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#sirene .surreal b { color: var(--gcolor6); }
-#sirene .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#fantasma .surreal b { color: var(--gcolor6); }
-#fantasma .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#youkai .surreal b { color: var(--gcolor6); }
-#youkai .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#ghouls .surreal b { color: var(--gcolor6); }
-#ghouls .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
-#hunter .surreal b { color: var(--gcolor6); }
-#hunter .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6);}
+#demonio .surreal b { color: var(--gcolor16); }
+#demonio .surreal .text { border-top: 2px solid var(--gcolor16);  border-bottom: 2px solid var(--gcolor16);}
+#anjo .surreal b { color: var(--gcolor15); }
+#anjo .surreal .text { border-top: 2px solid var(--gcolor15);  border-bottom: 2px solid var(--gcolor15);}
+#djinn .surreal b { color: var(--gcolor14); }
+#djinn .surreal .text { border-top: 2px solid var(--gcolor14);  border-bottom: 2px solid var(--gcolor14);}
+#fae .surreal b { color: var(--gcolor12); }
+#fae .surreal .text { border-top: 2px solid var(--gcolor12);  border-bottom: 2px solid var(--gcolor12);}
+#polimorfo .surreal b { color: var(--gcolor17); }
+#polimorfo .surreal .text { border-top: 2px solid var(--gcolor17);  border-bottom: 2px solid var(--gcolor17);}
+#oneiroi .surreal b { color: var(--gcolor20); }
+#oneiroi .surreal .text { border-top: 2px solid var(--gcolor20);  border-bottom: 2px solid var(--gcolor20);}
+#vampiro .surreal b { color: var(--gcolor10); }
+#vampiro .surreal .text { border-top: 2px solid var(--gcolor10);  border-bottom: 2px solid var(--gcolor10);}
+#lobisomem .surreal b { color: var(--gcolor11); }
+#lobisomem .surreal .text { border-top: 2px solid var(--gcolor11);  border-bottom: 2px solid var(--gcolor11);}
+#sirene .surreal b { color: var(--gcolor18); }
+#sirene .surreal .text { border-top: 2px solid var(--gcolor18);  border-bottom: 2px solid var(--gcolor18);}
+#fantasma .surreal b { color: var(--gcolor13); }
+#fantasma .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);}
+#youkai .surreal b { color: var(--gcolor8); }
+#youkai .surreal .text { border-top: 2px solid var(--gcolor8);  border-bottom: 2px solid var(--gcolor8);}
+#ghouls .surreal b { color: var(--gcolor13); }
+#ghouls .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);}
+#hunter .surreal b { color: var(--gcolor9); }
+#hunter .surreal .text { border-top: 2px solid var(--gcolor9);  border-bottom: 2px solid var(--gcolor9);}
 
 
 .graveyard { width: 60%; margin: 30px auto; color: #fff; background: rgba(255,255,255,0.1); border-radius: 5px; }
