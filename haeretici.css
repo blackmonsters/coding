@@ -6,7 +6,7 @@
   --mitchback:rgba(255,255,255,0.1);
 }
 
-.surreal { width: 80%; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--darkgray); }
+.surreal { width: 80%; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--border); }
 .surreal b {  background-color: var(--mitchback); color: var(--white); padding: 2px 0px; font-weight: 700; }
 .surreal .text, .surreal .text1 { width: calc(500px - 100px); border-top: 2px solid #DDDDDD;  border-bottom: 2px solid #DDDDDD; font-family: frank ruhl libre!important; font-size: 12px!important; line-height: 220%; white-space: pre-wrap; padding: 10px 50px!important;}
 
