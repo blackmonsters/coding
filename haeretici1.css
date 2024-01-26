@@ -46,7 +46,7 @@
   line-height: 220%; }
 
 .cecinnecon .cecinneide { width: 100%;
-  grid-area: viavagif; background-blend-mode: multiply; background-size: cover; background-position: center; background-attachment: fixed; height: 100%!important;
+  grid-area: viavagif; background-blend-mode: var(--blend1); background-size: cover; background-position: center; background-attachment: fixed; height: 100%!important;
   text-transform: uppercase; font-family: monda;
   font-size: 8px;
   letter-spacing: 1px; justify-content: space-evenly;}
