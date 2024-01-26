@@ -20,7 +20,7 @@
 #joe .cecinneconborder { border: 1px solid #3eb595; }
 #joe .cecinneide { background-image: var(--background1)!important, linear-gradient(190deg, #4A8573, #4A8573); }
 #alicia .cecinneconborder { border: 1px solid #5b2491;}
-#alicia { background-image: url(https://i.imgur.com/bwWI5xb.png)!important, linear-gradient(190deg, #4A8573, #4A8573); }
+#alicia { background-image: var(--background1)!important, linear-gradient(190deg, #4A8573, #4A8573); }
 
 
 .cecinnecon { color: var(--whitepost); 
