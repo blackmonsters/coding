@@ -15,7 +15,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
 
-.cecinneconborder { border: 1px solid rgba(255,255,255,0.1)!important; width: 570px; margin: 50px auto;}*
+.cecinneconborder { border: 1px solid var(--border)!important; width: 570px; margin: 50px auto;}*
 
 #joe .cecinneconborder { border: 1px solid #3eb595; }
 #joe .cecinneide { background-image: var(--background1)!important, linear-gradient(190deg, #4A8573, #4A8573); }
