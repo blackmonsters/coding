@@ -9,7 +9,6 @@
 .surreal { width: 70%; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--border); }
 .surreal b {  background-color: var(--mitchback); color: var(--white); padding: 2px 0px; font-weight: 700; }
 .surreal .text, .surreal .text1 { width: calc(100% - 100px); border-top: 2px solid #DDDDDD;  border-bottom: 2px solid #DDDDDD; font-family: frank ruhl libre!important; font-size: 13px!important; line-height: 220%; white-space: pre-wrap; padding: 10px 50px!important;}
-.surreal .text i, .surreal .text1 i { color: var(--whitepost)!important;}
 
 #bruxo .surreal b { color: var(--gcolor6); }
 #bruxo .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6); }
