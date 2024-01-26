@@ -3,7 +3,7 @@
 }
 
 [data-theme="dark"]{
-  --mitchback:rgba(255,255,255,0.1);
+  --mitchback:rgba(0,0,0,0.1);
 }
 
 .surreal { width: 70%; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--border); }
