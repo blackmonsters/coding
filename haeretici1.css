@@ -15,7 +15,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
 
 
-.cecinneconborder { border: 1px solid rgba(255,255,255,0.1); width: 570px; margin: 50px auto;}*
+.cecinneconborder { border: 1px solid rgba(255,255,255,0.1)!important; width: 570px; margin: 50px auto;}*
 
 #joe .cecinneconborder { border: 1px solid #3eb595; }
 #joe .cecinneide { background-image: url(https://i.imgur.com/bwWI5xb.png)!important, linear-gradient(190deg, #4A8573, #4A8573); }
@@ -23,9 +23,9 @@
 #alicia { background-image: url(https://i.imgur.com/bwWI5xb.png)!important, linear-gradient(190deg, #4A8573, #4A8573); }
 
 
-.cecinnecon { color: #EEE; 
+.cecinnecon { color: var(--whitepost); 
     width: 575px; margin: -20px 10px;
-    background-color: #050505;
+    background-color: var(--blackpost);
 
   display: grid;
   grid-template-columns:  100px auto;
@@ -53,7 +53,7 @@
 
 .cecinnegif { width: 100px; height: 100px; background-size: cover; background-position: center; position: sticky; top: 0px;}
 
-.cecinnetitle { color: #fff;
+.cecinnetitle { color: var(--whitepost);
   font-family: Staatliches; font-size:23px; font-weight: 100; text-align: left;
   line-height: 90%; padding: 15px;}
   
@@ -63,9 +63,9 @@
 
 .yungbludconborder { border: 1px solid #050505; width: 570px; margin: 50px auto;}
 
-.yungbludcon { color: #EEE; 
+.yungbludcon { color: var(--whitepost); 
     width: 550px; margin: -20px 10px;
-    background-color: #050505;
+    background-color: var(--blackpost);
 
   display: grid;
   grid-template-columns:  100px auto;
@@ -93,7 +93,7 @@
 
 .yungbludgif { width: 100px; height: 100px; background-size: cover; background-position: center; position: sticky; top: 0px;}
 
-.yungbludtitle { color: #fff;
+.yungbludtitle { color: var(--white);
   font-family: Staatliches; font-size:23px; font-weight: 100; text-align: left;
   line-height: 90%; padding: 15px;}
   
