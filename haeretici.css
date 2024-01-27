@@ -13,33 +13,33 @@ font-family: frank ruhl libre!important; font-size: 13px; line-height: 220%; whi
 letter-spacing: 0.5px; padding: 10px 50px!important;}
 
 #bruxo .surreal b { color: var(--gcolor6); }
-#bruxo .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6); font-size: 13px!important;}
+#bruxo .surreal .text { border-top: 2px solid var(--gcolor6);  border-bottom: 2px solid var(--gcolor6); font-size: 13px;}
 #demonio .surreal b { color: var(--gcolor16); }
-#demonio .surreal .text { border-top: 2px solid var(--gcolor16);  border-bottom: 2px solid var(--gcolor16);font-size: 13px!important;}
+#demonio .surreal .text { border-top: 2px solid var(--gcolor16);  border-bottom: 2px solid var(--gcolor16);font-size: 13px;}
 #anjo .surreal b { color: var(--gcolor15); }
-#anjo .surreal .text { border-top: 2px solid var(--gcolor15);  border-bottom: 2px solid var(--gcolor15);font-size: 13px!important;}
+#anjo .surreal .text { border-top: 2px solid var(--gcolor15);  border-bottom: 2px solid var(--gcolor15);font-size: 13px;}
 #djinn .surreal b { color: var(--gcolor14); }
-#djinn .surreal .text { border-top: 2px solid var(--gcolor14);  border-bottom: 2px solid var(--gcolor14);font-size: 13px!important;}
+#djinn .surreal .text { border-top: 2px solid var(--gcolor14);  border-bottom: 2px solid var(--gcolor14);font-size: 13px;}
 #fae .surreal b { color: var(--gcolor12); }
-#fae .surreal .text { border-top: 2px solid var(--gcolor12);  border-bottom: 2px solid var(--gcolor12);font-size: 13px!important;}
+#fae .surreal .text { border-top: 2px solid var(--gcolor12);  border-bottom: 2px solid var(--gcolor12);font-size: 13px;}
 #polimorfo .surreal b { color: var(--gcolor17); }
-#polimorfo .surreal .text { border-top: 2px solid var(--gcolor17);  border-bottom: 2px solid var(--gcolor17);font-size: 13px!important;}
+#polimorfo .surreal .text { border-top: 2px solid var(--gcolor17);  border-bottom: 2px solid var(--gcolor17);font-size: 13px;}
 #oneiroi .surreal b { color: var(--gcolor20); }
-#oneiroi .surreal .text { border-top: 2px solid var(--gcolor20);  border-bottom: 2px solid var(--gcolor20);font-size: 13px!important;}
+#oneiroi .surreal .text { border-top: 2px solid var(--gcolor20);  border-bottom: 2px solid var(--gcolor20);font-size: 13px;}
 #vampiro .surreal b { color: var(--gcolor10); }
-#vampiro .surreal .text { border-top: 2px solid var(--gcolor10);  border-bottom: 2px solid var(--gcolor10);font-size: 13px!important;}
+#vampiro .surreal .text { border-top: 2px solid var(--gcolor10);  border-bottom: 2px solid var(--gcolor10);font-size: 13px;}
 #lobisomem .surreal b { color: var(--gcolor11); }
-#lobisomem .surreal .text { border-top: 2px solid var(--gcolor11);  border-bottom: 2px solid var(--gcolor11);font-size: 13px!important;}
+#lobisomem .surreal .text { border-top: 2px solid var(--gcolor11);  border-bottom: 2px solid var(--gcolor11);font-size: 13px;}
 #sirene .surreal b { color: var(--gcolor18); }
-#sirene .surreal .text { border-top: 2px solid var(--gcolor18);  border-bottom: 2px solid var(--gcolor18);font-size: 13px!important;}
+#sirene .surreal .text { border-top: 2px solid var(--gcolor18);  border-bottom: 2px solid var(--gcolor18);font-size: 13px;}
 #fantasma .surreal b { color: var(--gcolor13); }
-#fantasma .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px!important;}
+#fantasma .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px;}
 #youkai .surreal b { color: var(--gcolor8); }
-#youkai .surreal .text { border-top: 2px solid var(--gcolor8);  border-bottom: 2px solid var(--gcolor8);font-size: 13px!important;}
+#youkai .surreal .text { border-top: 2px solid var(--gcolor8);  border-bottom: 2px solid var(--gcolor8);font-size: 13px;}
 #ghouls .surreal b { color: var(--gcolor13); }
-#ghouls .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px!important;}
+#ghouls .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px;}
 #hunter .surreal b, #cacador .surreal b { color: var(--gcolor9); }
-#hunter .surreal .text, #cacador .surreal .text { border-top: 2px solid var(--gcolor9);  border-bottom: 2px solid var(--gcolor9);font-size: 13px!important;}
+#hunter .surreal .text, #cacador .surreal .text { border-top: 2px solid var(--gcolor9);  border-bottom: 2px solid var(--gcolor9);font-size: 13px;}
 
 
 .graveyard { width: 70%; margin: 30px auto; color: var(--whitepost); background: rgba(255,255,255,0.1); border-radius: 5px; }
