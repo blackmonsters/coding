@@ -72,7 +72,7 @@ background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,1
 
 
 .mitchquote {padding: 0px 20px 0px 20px; margin-top: 25px; line-height: 120%; font-style: italic; border-left: 1px solid var(--border);}
-.mitchquote::before {content: "texto aqui"; text-transform: uppercase; font-size: 8px; letter-spacing: 2px;}
+.mitchquote::before {content: "texto aqui"; text-transform: lowercase; font-size: 9px; letter-spacing: 2px;}
 
 #adam .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #abraxas .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
@@ -86,7 +86,9 @@ background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,1
 #pamela .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #camael .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #cora .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#shweta .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#shweta .mitchquote::before { content: "I will hurt you for this. I don't know how yet, but give me time. A day will come when you think yourself safe and happy, and suddenly your joy will turn to ashes in your mouth, and you'll know the debt is paid";}
+
 #venus .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #ivy .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #helena .mitchquote::before { content: "There are times when the mind is dealt such a blow it hides itself in insanity. While this may not seem beneficial, it is. There are times when reality is nothing but pain, and to escape that pain the mind must leave reality behind";}
