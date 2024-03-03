@@ -64,11 +64,11 @@ background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,
 #cynthia-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
 background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
 
-#adam-gif { padding: 0px 20px; border-radius: 100%; width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,109,119,0.5) 0%, rgba(0,109,119,0.5) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
+#adam-gif { padding: 0px 20px; border-radius: 100%; width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;
+background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,109,119,0.5) 0%, rgba(0,109,119,0.5) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 50px; background-blend-mode: multiply;}
 
 
-.mitchquote {padding: 0px 20px 0px 20px; margin-top: 25px; line-height: 120%; font-style: italic; border-left: 1px solid var(--border);}
+.mitchquote {padding: 0px 20px 0px 20px; margin-top: 25px; line-height: 120%; font-style: italic; border-left: 0px solid var(--border);}
 .mitchquote::before {content: "texto aqui"; text-transform: lowercase; font-size: 9px; letter-spacing: 2px;}
 
 #adam .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
