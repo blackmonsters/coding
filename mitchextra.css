@@ -52,9 +52,6 @@ background: url(https://i.imgur.com/M2YC46l.gif), linear-gradient(0deg, rgba(114
 #uruha-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
 background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(0,109,119,0.5) 0%, rgba(0,109,119,0.5) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
 
-#adam-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
 #donovan-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
 background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
 
@@ -67,7 +64,7 @@ background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,
 #cynthia-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
 background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
 
-#adam-gif { padding: 0px 20px; width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
+#adam-gif { padding: 0px 20px; border-radius: 100%; width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
 background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,109,119,0.5) 0%, rgba(0,109,119,0.5) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
 
 
