@@ -36,7 +36,7 @@
 .surreal { width: 75%; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--border); }
 .surreal b {  background-color: var(--mitchback); color: var(--white); padding: 2px 0px; font-weight: 700; }
 .surreal .text, .surreal .text1 { width: calc(100% - 100px); border-top: 2px solid #DDDDDD;  border-bottom: 2px solid #DDDDDD; 
-font-family: frank ruhl libre!important; line-height: 220%; white-space: pre-wrap; 
+font-family: cardo!important; line-height: 220%; white-space: pre-wrap; 
 letter-spacing: 0.5px; padding: 10px 50px!important;}
 
 #bruxo .surreal b { color: var(--gcolor6); }
