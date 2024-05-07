@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+
+.celinecontainer {  border: 1px solid #ddd; border-radius: 10px; background: #fff;
+font-family: open sans; font-size: 14px; width: 550px; background: #fff;
+ margin: auto;
+  display: grid;
+  grid-template-columns: 150px 200px 200px;
+  grid-template-rows: 250px auto;
+  grid-template-areas:
+    "header header header"
+    "ava ava ava"
+    "title title title"
+    "icons icons icons";}
+
+
+
+.celinebox1 { grid-area: header; width: 100%; border-radius: 10px 10px 0px 0px;
+  background: url('https://i.imgur.com/shTQpKT.jpeg'); background-size: cover; background-position: center; }
+
+.celinebox2 { grid-area: ava; width: 100px; height: 100px; border-radius: 100%; border: 5px solid #fff; margin-left: auto; margin-right: auto; margin-top: -50px;
+  background: url('https://i.imgur.com/EzMIpO9.jpeg'); background-position: center; background-size: cover; }
+ 
+
+.celinebox3 { grid-area: title; font-size: 18px!important; margin: auto; width: 100%; text-align:center; padding-top: 10px; }
+.celinebox3 b { font-size: 14px; color: #00B8FF;}
+.follow { padding: 5px 10px; border: 1px solid #00B8FF; color: #00B8FF; border-radius: 50px; float: left; margin-left: 10px; margin-bottom: 20px; font-size: 12px;}
+.follow i {font-size: 16px;}
+
+.tumblrpost { border: 1px solid #ddd; border-radius: 10px; padding: 15px; background: #fff;
+font-family: open sans; font-size: 14px; width: 550px; margin: auto; display: grid; 
+  align-items: start;align-content: start;
+
+  grid-template-columns:  150px, 200px, 200px;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "icon name points"
+      "icon date points"
+      "post post post"
+      "notas points2 points2";}
+
+.div2 x { color: blue; font-weight: bold;}
+.tnotes { padding: 5px 15px; border: 1px solid #ddd; border-radius: 40px;}
+.div12 i, .div7 i { padding: 0px 10px; font-size: 23px;}
+
+
+.div1 { grid-area: icon; width: 40px; height: 40px; border-radius: 5px; background-image: url('https://i.imgur.com/EzMIpO9.jpeg'); background-size: cover; }
+.div2 { grid-area: name; margin-left: -120px; text-align: left;   }
+.div3 { grid-area: date; margin-left: -120px; text-align: left; font-style: italic; }
+.div7 { grid-area: points; text-align: right; }
+.div8 { grid-area: post; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;margin: 25px; padding: 30px; }
+.div9 { grid-area: notas; }
+.div12 { grid-area: points2; text-align: right; }
