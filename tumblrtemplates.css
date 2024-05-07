@@ -40,7 +40,7 @@ font-family: open sans; font-size: 14px; width: 550px; margin: auto; display: gr
       "notas points2 points2";}
 
 .div2 x { color: #00b8ff; font-weight: bold;}
-.tnotes { padding: 5px 15px; border: 1px solid #ddd; border-radius: 40px;}
+.tnotes { padding: 5px 15px; border: 1px solid #ddd; border-radius: 40px; margin-top: -3px;}
 .div12 i, .div7 i { padding: 0px 10px; font-size: 23px;}
 
 
@@ -48,6 +48,6 @@ font-family: open sans; font-size: 14px; width: 550px; margin: auto; display: gr
 .div2 { grid-area: name; margin-left: -120px; text-align: left;   }
 .div3 { grid-area: date; margin-left: -120px; text-align: left; font-style: italic; }
 .div7 { grid-area: points; text-align: right; }
-.div8 { grid-area: post; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;margin: 25px -25px 25px -25px; padding: 30px; }
+.div8 { grid-area: post; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;margin: 25px -25px 25px -25px; padding: 30px 50px; }
 .div9 { grid-area: notas; }
 .div12 { grid-area: points2; text-align: right; }
