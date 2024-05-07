@@ -73,6 +73,6 @@ font-family: open sans; font-size: 14px; width: 350px; background: #fff;
 .tinderbox2 { grid-area: ava; width: 200px; height: 100px; border-radius: 100%;  margin-left: auto; margin-right: 0px; margin-top: -20px; }
 .tinderbox3 { grid-area: title; font-size: 18px!important; margin: auto; width: 100%; text-align:left; padding: 0px 20px; margin-top: -50px; }
 .tinderbox3 b { font-size: 24px; color: #F42578;}
-.follow { padding: 8px; width: 18px; height: 18px; border: 1px solid #F42578; color: #F42578; border-radius: 50px; float: left; text-align: center; margin-right: 10px; margin-bottom: 20px; font-size: 12px;}
-.follow i {font-size: 18px;}
-.follow:hover { background: #F42578; border: 1px solid #fff; color: #fff;}
+.followt { padding: 8px; width: 18px; height: 18px; border: 1px solid #F42578; color: #F42578; border-radius: 50px; float: left; text-align: center; margin-right: 10px; margin-bottom: 20px; font-size: 12px;}
+.followt i {font-size: 18px;}
+.followt:hover { background: #F42578; border: 1px solid #fff; color: #fff;}
