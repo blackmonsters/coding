@@ -51,3 +51,28 @@ font-family: open sans; font-size: 14px; width: 550px; margin: auto; display: gr
 .div8 { grid-area: post; border-top: 1px solid #ddd; border-bottom: 1px solid #ddd;margin: 25px -25px 25px -25px; padding: 30px 50px; }
 .div9 { grid-area: notas; }
 .div12 { grid-area: points2; text-align: right; }
+
+
+.tindercontainer {  border: 1px solid #ddd; border-radius: 10px; background: #fff;
+font-family: open sans; font-size: 14px; width: 350px; background: #fff;
+ margin: auto;
+  display: grid;
+  grid-template-columns: 150px 200px;
+  grid-template-rows: 250px auto;
+  grid-template-areas:
+    "header header"
+    "ava ava"
+    "title title"
+    "icons icons";}
+
+
+
+.tinderbox1 { grid-area: header; width: 100%; border-radius: 10px 10px 0px 0px;
+  background: url('https://i.imgur.com/shTQpKT.jpeg'); background-size: cover; background-position: center; }
+
+.tinderbox2 { grid-area: ava; width: 200px; height: 100px; border-radius: 100%;  margin-left: auto; margin-right: 0px; margin-top: -20px; }
+.tinderbox3 { grid-area: title; font-size: 18px!important; margin: auto; width: 100%; text-align:left; padding: 0px 20px; margin-top: -50px; }
+.tinderbox3 b { font-size: 24px; color: #F42578;}
+.follow { padding: 8px; width: 18px; height: 18px; border: 1px solid #F42578; color: #F42578; border-radius: 50px; float: left; text-align: center; margin-right: 10px; margin-bottom: 20px; font-size: 12px;}
+.follow i {font-size: 18px;}
+.follow:hover { background: #F42578; border: 1px solid #fff; color: #fff;}
