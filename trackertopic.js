@@ -1,5 +1,5 @@
 document.write(`<style>
-.fizztrackerwrap, .fizzhistorywrap {position: relative; max-width: 70%; margin: 31px auto; padding: 10px 25px; color: var(--whitepost); outline: 5px solid var(--border); outline-offset: 15px;}
+.fizztrackerwrap, .fizzhistorywrap {position: relative; max-width: 70%; margin: 31px auto; padding: 10px 25px; color: var(--whitepost); outline: 10px solid #ddd; outline-offset: 15px;}
 .fizztrackerwrap p, .fizzhistorywrap p {
     position: relative;
     font-size: 1.2em;
