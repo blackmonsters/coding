@@ -79,7 +79,7 @@ console.log("tracker num ", trackernum)
         params = {};
     }
     if (!params.indicators) {
-        params.indicators = ['<i class="fa-regular fa-circle-check"></i>', '<i class="fa fa-circle-o"></i>'];
+        params.indicators = ['<i class="fa-solid fa-check"></i>', '<i class="fa fa-circle-o"></i>'];
     }
     if (!params.lockedMacroIdentifier) {
         params.lockedMacroIdentifier = "[title*=Closed],[class*=lock],[class*=closed]";
