@@ -52,7 +52,8 @@ font-family: open sans; font-size: 14px; width: 550px; margin: auto; display: gr
 .div9 { grid-area: notas; }
 .div12 { grid-area: points2; text-align: right; }
 
-.ao3title u { color: red;}
+.ao3title u { color: #900; font-weight: 900;}
+.ao3title i {text-decoration: none; border-bottom: 1px dotted black;}
 .ao3tags u { text-decoration: none; border-bottom: 1px dotted black;}
 
 
