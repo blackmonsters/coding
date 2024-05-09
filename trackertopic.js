@@ -3,7 +3,7 @@ document.write(`<style>
 .fizztrackerwrap p, .fizzhistorywrap p {
     position: relative;
     font-size: 1.2em;
-    border-bottom: 1px solid var(--border);
+    border-bottom: 1px solid #D5D5D5;
     padding-bottom: 0.35em;
     display: flex;
     justify-content: space-between; text-transform: uppercase; font-style: italic;
@@ -13,7 +13,7 @@ document.write(`<style>
 .tracker-item {margin-left: 3em; margin-bottom: 0.5em; font-family: var(--fontstyle2)!important; font-size: var(--font2); text-transform: lowercase; letter-spacing: 0.5px; }
 .fizztrackerwrap .tracker-item {text-indent: -4.00em;}
 .tracker-item .status {width: 1.5em; text-align: center; font-size: var(--font2); display: inline-flex; line-height: 1; }
-.tracker-item a { text-transform: uppercase; font-size: var(--font3); background: var(--border); padding: 5px; border-radius: 5px;  letter-spacing: 1px; font-weight: 900; margin-bottom: 2px;}
+.tracker-item a { text-transform: uppercase; font-size: var(--font3); color: #fff; background: var(--border); padding: 5px; border-radius: 5px;  letter-spacing: 1px; font-weight: 900; margin-bottom: 2px;}
 .tracker-desc { line-height: 200%; padding-left: 10px;}
 .tracker-item .caughtup { padding: 5px; margin: 0px 10px; border: 0px solid var(--border); border-radius: 100%;}
 .tracker-item .myturn { padding: 5px; margin: 0px 10px; border: 0px solid var(--border); border-radius: 100%;}
