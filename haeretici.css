@@ -64,7 +64,7 @@ letter-spacing: 0.2px; padding: 10px 50px!important;}
 #youkai .surreal b { color: var(--gcolor8); }
 #youkai .surreal .text { border-top: 2px solid var(--gcolor8);  border-bottom: 2px solid var(--gcolor8);font-size: 13px;}
 #ghouls .surreal b { color: var(--gcolor13); }
-#ghouls .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px;}
+#ghouls .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px; text-transform: lowercase;}
 #hunter .surreal b, #cacador .surreal b { color: var(--gcolor9); }
 #hunter .surreal .text, #cacador .surreal .text { border-top: 2px solid var(--gcolor9);  border-bottom: 2px solid var(--gcolor9);font-size: 13px;}
 
