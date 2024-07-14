@@ -67,6 +67,8 @@ letter-spacing: 0.2px; padding: 10px 50px!important;}
 #ghouls .surreal .text { border-top: 2px solid var(--gcolor13);  border-bottom: 2px solid var(--gcolor13);font-size: 13px; text-transform: lowercase;}
 #hunter .surreal b, #cacador .surreal b { color: var(--gcolor9); }
 #hunter .surreal .text, #cacador .surreal .text { border-top: 2px solid var(--gcolor9);  border-bottom: 2px solid var(--gcolor9);font-size: 13px;}
+#cultivador .surreal b, #cacador .surreal b { color: var(--gcolor19); }
+#cultivador .surreal .text, #cacador .surreal .text { border-top: 2px solid var(--gcolor19);  border-bottom: 2px solid var(--gcolor19);font-size: 13px;}
 
 
 .graveyard { width: 70%; margin: 30px auto; color: var(--whitepost); background: rgba(255,255,255,0.1); border-radius: 5px; }
