@@ -33,7 +33,7 @@
 #cynthia .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 
 
-.surreal { width: 75%; margin: 30px auto; padding: 10px 20px; border-radius: 0px; border: 1px solid var(--border); border-radius: 20px; }
+.surreal { width: 75%; margin: 30px auto; padding: 10px; border-radius: 0px; border: 1px solid var(--border); border-radius: 15px; }
 .surreal b {  background-color: var(--mitchback); color: var(--white); padding: 2px 0px; font-weight: 700; }
 .surreal .text, .surreal .text1 { width: calc(100% - 100px); border-top: 2px solid #DDDDDD;  border-bottom: 2px solid #DDDDDD; 
 font-family: frank ruhl libre!important; line-height: 220%; white-space: pre-wrap; 
