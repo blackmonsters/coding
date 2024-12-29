@@ -1,5 +1,5 @@
 
-.instagramalle {  display: grid; margin: auto;
+.instagramalle {  display: grid; margin: auto!important;
   grid-template-columns: 200px calc(50% - 100px) calc(50% - 100px);
   grid-template-rows: 70px 30px 50px 150px 50px 500px;
   grid-auto-columns: 1fr; font-family: var(--fontstyle); font-size: var(--font2); padding: 40px; border: 1px solid var(--insborder); border-radius: 15px; width: 600px;
