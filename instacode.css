@@ -77,20 +77,20 @@ t { margin: 5px 15px;}
   grid-area: instaimg;
 }
 
-.img1 { grid-area: img1; background-image: var(--avatar); background-size: cover; background-position: center; }
+.img1 { grid-area: img1; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%; }
 
-.img2 { grid-area: img2; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img2 { grid-area: img2; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img3 { grid-area: img3; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img3 { grid-area: img3; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img4 { grid-area: img4; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img4 { grid-area: img4; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img5 { grid-area: img5; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img5 { grid-area: img5; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img6 { grid-area: img6; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img6 { grid-area: img6; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img7 { grid-area: img7; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img7 { grid-area: img7; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img8 { grid-area: img8; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img8 { grid-area: img8; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
 
-.img9 { grid-area: img9; background-image: var(--avatar); background-size: cover; background-position: center;}
+.img9 { grid-area: img9; background-image: var(--avatar); background-size: cover!important; background-position: center; height: 100%;}
