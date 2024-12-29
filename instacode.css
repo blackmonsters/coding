@@ -1,0 +1,93 @@
+
+.instagramalle {  display: grid; 
+  grid-template-columns: 200px calc(50% - 100px) calc(50% - 100px);
+  grid-template-rows: 70px 30px 50px 150px 50px 500px;
+  grid-auto-columns: 1fr; font-family: roboto; font-size: 12px; padding: 40px; border: 1px solid var(--insborder); border-radius: 15px; width: 600px;
+  grid-auto-rows: 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "avatar user user"
+    "avatar followers followers"
+    "avatar userdesc userdesc"
+    "stories stories stories"
+    "tabs tabs tabs"
+    "instaimg instaimg instaimg";
+}
+
+.avatar { grid-area: avatar; }
+.avatar img { border-radius: 100%; width: 120px; height: 120px; padding: 1px; object-fit: cover;   object-position: 50% 50%; border: 1px solid var(--insborder); margin: 15px; }
+
+.user { grid-area: user; font-weight: 900; margin-top: 25px; font-size: 20px; }
+
+.followers {  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "sub1 sub2 sub3 na";
+  grid-area: followers;
+}
+
+.sub1 { grid-area: sub1; }
+
+.sub2 { grid-area: sub2; }
+
+.sub3 { grid-area: sub3; }
+
+.userdesc { grid-area: userdesc; }
+
+.stories {  display: grid; margin-top: 20px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "stories1 stories2 stories3 stories4 stories5 na";
+  grid-area: stories;
+}
+
+.stories1 { grid-area: stories1; }
+
+.stories2 { grid-area: stories2; }
+
+.stories3 { grid-area: stories3; }
+
+.stories4 { grid-area: stories4; }
+
+.stories5 { grid-area: stories5; }
+
+.stories1 img, .stories2 img, .stories3 img, .stories4 img, .stories5 img { border-radius: 100%; width: 80px; height: 80px; padding: 1px; object-fit: cover; object-position: 50% 50%; border: 1px solid var(--insborder); margin: 10px;}
+
+.tabins { grid-area: tabs; border-top: 1px solid var(--insborder); text-align: center; padding: 10px; text-transform:uppercase; font-weight: 700; }
+
+.instaimg {  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 5px 5px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "img1 img2 img3"
+    "img4 img5 img6"
+    "img7 img8 img9";
+  grid-area: instaimg;
+}
+
+.img1 { grid-area: img1; background-image: var(--avatar); background-size: cover; background-position: center; }
+
+.img2 { grid-area: img2; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img3 { grid-area: img3; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img4 { grid-area: img4; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img5 { grid-area: img5; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img6 { grid-area: img6; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img7 { grid-area: img7; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img8 { grid-area: img8; background-image: var(--avatar); background-size: cover; background-position: center;}
+
+.img9 { grid-area: img9; background-image: var(--avatar); background-size: cover; background-position: center;}
