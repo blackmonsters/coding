@@ -3,7 +3,7 @@
 }
 
 [data-theme="dark"]{
-  --mitchback:rgba(0,0,0,0.1);
+  --mitchback:rgba(0,0,0,0.0);
 }
 
 .mitchquote {padding: 20px 20px 0px 20px; margin-bottom: -10px;}
@@ -291,3 +291,4 @@ background-image: linear-gradient(180deg, #166B8B, #140B0B); }
 #milo .mitchversocon { background: url(https://i.imgur.com/kf6A8YS.png), linear-gradient(0deg, rgba(174,75,42,1) 0%, rgba(0,0,0,1) 80%, rgba(0,0,0,1) 100%); background-attachment: fixed; background-size: cover;}
 #milo .mitchversocon b { color: rgba(174,75,42,1); }
 #milo .mitchversoquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
