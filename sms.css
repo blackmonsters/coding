@@ -1,11 +1,11 @@
 :root { 
-	--backsms: #111;
+	--transparent: 0.8
 }
 
 
 
 [data-theme="dark"] {
-	--backsms: #aaa;
+		--transparent: 0.2
  }
 
   @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
@@ -45,7 +45,7 @@
 
   .smsmensagem {position: relative;
      border-radius: 5px;
-     background: var((--grupo) / 0.2); color: var(--whitepost); padding: 15px;
+     background: var((--grupo) / var(--transparent)); color: var(--whitepost); padding: 15px;
      margin-bottom: 3rem;
      line-height: 1.5;
      margin: 40px 10px;}
@@ -56,8 +56,9 @@
     bottom: 0;
     border-style: solid;
     border-width: 20px 20px 0 0;
-    border-color: var((--grupo) / 0.2) transparent transparent;
+    border-color: var((--grupo) / var(--transparent)) transparent transparent;
     transform: translate(0,100%);}
+
 
 
 
