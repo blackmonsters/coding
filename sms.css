@@ -45,7 +45,7 @@
 
   .smsmensagem {position: relative;
      border-radius: 5px;
-     background: rgba(var(--grupo) / var(--transparent)); color: var(--whitepost); padding: 15px;
+     background: rgba(var(--groupcolor) / 0.4); color: var(--whitepost); padding: 15px;
      margin-bottom: 3rem;
      line-height: 1.5;
      margin: 40px 10px;}
@@ -56,8 +56,9 @@
     bottom: 0;
     border-style: solid;
     border-width: 20px 20px 0 0;
-    border-color:  rgba(var(--grupo) / var(--transparent)) transparent transparent;
+    border-color:  rgba(var(--groupcolor) / 0.4) transparent transparent;
     transform: translate(0,100%);}
+
 
 
 
