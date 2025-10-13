@@ -13,7 +13,7 @@ grid-row-gap: 0px;
 .midiv1 { grid-area: 1 / 1 / 2 / 2; width: 75px; height: calc(100% + 10px); border-radius: 100%; }
 .midiv2 { grid-area: 1 / 2 / 2 / 3; }
 
-.mitchquote {padding: 0px 20px 0px 20px; margin-top: 15px; line-height: 120%; font-style: italic;}
+.mitchquote {padding: 0px 20px 0px 20px; margin-top: 15px; line-height: 120%; font-style: italic; border-left: 1px solid transparent!important;}
 .mitchquote::before {content: "texto aqui"; text-transform: lowercase; font-size: 9px; letter-spacing: 2px;}
 
 #adam .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
@@ -42,3 +42,4 @@ grid-row-gap: 0px;
 #cynthia .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 
 #cynthia .midiv1 { background:url(https://i.postimg.cc/Xvr8BgDh/florence0.png); background-size: cover; background-position: center;}
+
