@@ -1,74 +1,19 @@
-#venus-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
+  .miparent {
+display: grid;
+grid-template-columns: 80px auto;
+grid-template-rows: 1fr;
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+ justify-content: start; 
+  align-content: start; 
+  justify-items: start; 
+  align-items: start; 
+}
 
-#santiago-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
+.midiv1 { grid-area: 1 / 1 / 2 / 2; width: 75px; height: calc(100% + 10px); border-radius: 100%; }
+.midiv2 { grid-area: 1 / 2 / 2 / 3; }
 
-#abraxas-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#billy-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#ivan-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#milo-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#contessa-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#svetlana-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#pamela-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#camael-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#cora-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#shweta-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/hu1gJuk.gif), linear-gradient(0deg, rgba(254,198,1,0.2) 0%, rgba(254,198,1,0.2) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#ivy-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#greta-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/RAmodub.gif), linear-gradient(0deg, rgba(114,9,183,0.25) 0%, rgba(114,9,183,0.25) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#helena-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/XzcH7mq.gif), linear-gradient(0deg, rgba(114,9,183,0.25) 0%, rgba(114,9,183,0.25) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#nkwachi-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/G4NQsj8.gif), linear-gradient(0deg, rgba(114,9,183,0.25) 0%, rgba(114,9,183,0.25) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#sandra-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/M2YC46l.gif), linear-gradient(0deg, rgba(114,9,183,0.25) 0%, rgba(114,9,183,0.25) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#uruha-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(0,109,119,0.5) 0%, rgba(0,109,119,0.5) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#donovan-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#fei-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#dumas-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#cynthia-gif { width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;position: sticky; top:0px; 
-background: url(https://i.imgur.com/gBfb35r.gif), linear-gradient(0deg, rgba(72,202,228,1) 0%, rgba(72,202,228,1) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 0px; background-blend-mode: multiply;}
-
-#adam-gif { padding: 0px 20px; border-radius: 100%; width: 75px!important; height: 75px!important; position: relative; margin: 0px 7px 0px 0px; float: left;
-background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,109,119,0.5) 0%, rgba(0,109,119,0.5) 100%); background-position: center; background-size: cover; font-size:0px; position: sticky; top: 50px; background-blend-mode: multiply;}
-
-
-.mitchquote {padding: 0px 20px 0px 20px; margin-top: 25px; line-height: 120%; font-style: italic; border-left: 0px solid var(--border);}
+.mitchquote {padding: 0px 20px 0px 20px; margin-top: 15px; line-height: 120%; font-style: italic;}
 .mitchquote::before {content: "texto aqui"; text-transform: lowercase; font-size: 9px; letter-spacing: 2px;}
 
 #adam .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
@@ -83,9 +28,7 @@ background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,1
 #pamela .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #camael .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #cora .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-
 #shweta .mitchquote::before { content: "I will hurt you for this. I don't know how yet, but give me time. A day will come when you think yourself safe and happy, and suddenly your joy will turn to ashes in your mouth, and you'll know the debt is paid";}
-
 #venus .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #ivy .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #helena .mitchquote::before { content: "There are times when the mind is dealt such a blow it hides itself in insanity. While this may not seem beneficial, it is. There are times when reality is nothing but pain, and to escape that pain the mind must leave reality behind";}
@@ -97,3 +40,5 @@ background: url(https://i.imgur.com/Gk7eAla.gif), linear-gradient(0deg, rgba(0,1
 #fei .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #dumas .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
 #cynthia .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
+
+#cynthia .midiv1 { background:url(https://i.postimg.cc/Xvr8BgDh/florence0.png); background-size: cover; background-position: center;}
