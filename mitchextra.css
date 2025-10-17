@@ -42,7 +42,7 @@ grid-row-gap: 0px;
 }
 
 .ilayer:after {
-    background-color: rgb(var(--groupcolor)); border-radius: 100%;
+    background-color: rgb(var(--groupcolor) / 0.6); border-radius: 100%;
 }
 
 
@@ -74,6 +74,7 @@ grid-row-gap: 0px;
 
 #lucy .mitchquote::before { content: "Every eldest daughter was the first lamb to the slaughter, so we all dressed up as wolves and we looked fire";}
 #lucy #icat { background-image:url(https://64.media.tumblr.com/f901bd0e360f9cb9d71ec35cd01248b8/68344faa5feb7061-e8/s540x810/68bb0dff0c96e7ee4de5ed36fc536c5de18ea215.gifv); }
+
 
 
 
