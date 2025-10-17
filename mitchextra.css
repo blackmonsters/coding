@@ -13,7 +13,7 @@ grid-row-gap: 0px;
 .midiv1 { grid-area: 1 / 1 / 2 / 2; width: 75px; height: 75px; border-radius: 100%; }
 .midiv2 { grid-area: 1 / 2 / 2 / 3; }
 
-.mitchquote {padding: 0px 20px 0px 20px; margin-top: 15px; line-height: 120%; font-style: italic; border-left: 1px solid transparent!important;}
+.mitchquote {padding: 0px 20px 0px 20px; margin-top: 15px; line-height: 150%; font-style: italic; border-left: 1px solid transparent!important;}
 .mitchquote::before {content: "texto aqui"; text-transform: lowercase; font-size: 9px; letter-spacing: 1px; text-align: left;}
 
 #icat {
@@ -74,6 +74,7 @@ grid-row-gap: 0px;
 
 #lucy .mitchquote::before { content: "Every eldest daughter was the first lamb to the slaughter, so we all dressed up as wolves and we looked fire";}
 #lucy #icat { background-image:url(https://64.media.tumblr.com/f901bd0e360f9cb9d71ec35cd01248b8/68344faa5feb7061-e8/s540x810/68bb0dff0c96e7ee4de5ed36fc536c5de18ea215.gifv); }
+
 
 
 
