@@ -17,7 +17,7 @@ grid-row-gap: 0px;
 .mitchquote::before {content: "texto aqui"; text-transform: lowercase; font-size: 9px; letter-spacing: 1px; text-align: left;}
 
 #icat {
-    width: 75px;
+    width: 75px; position: sticky; top: 50px;
     height: 75px;
     background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 0.6);
 }
@@ -74,6 +74,7 @@ grid-row-gap: 0px;
 
 #lucy .mitchquote::before { content: "We're all dead eventually. There's hardly any time that we're not dead. Which is a good thing, too. Dying defines us. Snow isn't snow until it falls.";}
 #lucy #icat { background-image:url(https://64.media.tumblr.com/f901bd0e360f9cb9d71ec35cd01248b8/68344faa5feb7061-e8/s540x810/68bb0dff0c96e7ee4de5ed36fc536c5de18ea215.gifv); }
+
 
 
 
