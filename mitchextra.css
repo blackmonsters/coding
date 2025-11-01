@@ -51,14 +51,15 @@ grid-row-gap: 0px;
 #lucy .mitchquote::before { content: "We're all dead eventually. There's hardly any time that we're not dead. Which is a good thing, too. Dying defines us. Snow isn't snow until it falls.";}
 #lucy #icat { background-image:url(https://64.media.tumblr.com/f901bd0e360f9cb9d71ec35cd01248b8/68344faa5feb7061-e8/s540x810/68bb0dff0c96e7ee4de5ed36fc536c5de18ea215.gifv); }
 
-#quince .mitchquote::before { content: "Only those who will risk going too far can possibly find out how far one can go.";}
-#quince #icat { background-image:url(https://i.postimg.cc/2665MbXq/f8c3523ad0069f84a99ad582593316713f304b10.gif); }
+#dante .mitchquote::before { content: "Only those who will risk going too far can possibly find out how far one can go.";}
+#dante #icat { background-image:url(https://64.media.tumblr.com/3c5e4c30878cd20cd3fab72b83e4c5d4/146d5870bf06327e-89/s250x400/2c01f620e54da0502420221a791e2b0c262b2470.gifv); }
 
 #lucien .mitchquote::before { content: ".";}
 #lucien #icat { background-image:url(https://i.postimg.cc/dQ2fpHrP/55013a738d4651bb4db793bdf741cc8b0ff91f1a.gif); }
 
 #veronica .mitchquote::before { content: "What is that you express in your eyes? It seems to me more than all the print I have read in my life.";}
 #veronica #icat { background-image:url(https://i.postimg.cc/MK41DxHd/948dcb56d0f338e8c9e08b8976144b17b05598b0.gif); }
+
 
 
 
