@@ -48,33 +48,6 @@ grid-row-gap: 0px;
     background-color: rgb(var(--groupcolor) / 0.6); border-radius: 100%;
 }
 
-
-
-#adam .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#abraxas .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#santiago .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#billy .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#ivan .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#milo .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#nkwachi .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#contessa .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#svetlana .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#pamela .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#camael .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#cora .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#shweta .mitchquote::before { content: "I will hurt you for this. I don't know how yet, but give me time. A day will come when you think yourself safe and happy, and suddenly your joy will turn to ashes in your mouth, and you'll know the debt is paid";}
-#venus .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#ivy .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#helena .mitchquote::before { content: "There are times when the mind is dealt such a blow it hides itself in insanity. While this may not seem beneficial, it is. There are times when reality is nothing but pain, and to escape that pain the mind must leave reality behind";}
-#sandra .mitchquote::before { content: "There are times when the mind is dealt such a blow it hides itself in insanity. While this may not seem beneficial, it is. There are times when reality is nothing but pain, and to escape that pain the mind must leave reality behind";}
-#greta .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#uruha .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#adam .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#donovan .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#fei .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#dumas .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-#cynthia .mitchquote::before { content: "But the battle's nearly over / For inside every sin / There can only be one whim / My price has gone to him / The victor of my sin / He has dug my grave And now I cannot be saved";}
-
 #lucy .mitchquote::before { content: "We're all dead eventually. There's hardly any time that we're not dead. Which is a good thing, too. Dying defines us. Snow isn't snow until it falls.";}
 #lucy #icat { background-image:url(https://64.media.tumblr.com/f901bd0e360f9cb9d71ec35cd01248b8/68344faa5feb7061-e8/s540x810/68bb0dff0c96e7ee4de5ed36fc536c5de18ea215.gifv); }
 
@@ -83,6 +56,11 @@ grid-row-gap: 0px;
 
 #lucien .mitchquote::before { content: ".";}
 #lucien #icat { background-image:url(https://i.postimg.cc/dQ2fpHrP/55013a738d4651bb4db793bdf741cc8b0ff91f1a.gif); }
+
+#veronica .mitchquote::before { content: ".";}
+#veronica #icat { background-image:url(https://i.postimg.cc/MK41DxHd/948dcb56d0f338e8c9e08b8976144b17b05598b0.gif); }
+
+
 
 
 
