@@ -11,6 +11,7 @@ grid-row-gap: 0px;
 }
 
 .miparent b { color: rgb(var(--groupcolor))!important; }
+.miparent i { color: rgb(var(--groupcolor))!important; }
 
 .midiv1 { grid-area: 1 / 1 / 2 / 2; width: 75px; height: 75px; border-radius: 100%; margin-left: -15px;position: sticky!important; top: 50px; }
 .midiv2 { grid-area: 1 / 2 / 2 / 3; white-space: pre-wrap; }
@@ -82,6 +83,7 @@ grid-row-gap: 0px;
 
 #lucien .mitchquote::before { content: ".";}
 #lucien #icat { background-image:url(https://i.postimg.cc/dQ2fpHrP/55013a738d4651bb4db793bdf741cc8b0ff91f1a.gif); }
+
 
 
 
