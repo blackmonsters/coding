@@ -69,6 +69,9 @@ grid-row-gap: 0px;
 #james .mitchquote::before { content: ".";}
 #james #icat { background-image:url(https://64.media.tumblr.com/969e0491d9f65136a82d865fd01c1090/775ecabbe9909869-56/s400x600/f741b5d428effc8da93595f3842ecbbef6e22831.gifv); }
 
+#adam .mitchquote::before { content: ".";}
+#adam #icat { background-image:url(https://64.media.tumblr.com/696cad987552b1c5e9f93325646fee70/eaf6ac1985e5488f-28/s400x600/c0c118b0a5da29f187c03a3d1652d5fd2533bc50.gifv); }
+
 
 
 
