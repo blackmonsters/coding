@@ -60,6 +60,16 @@ grid-row-gap: 0px;
 #veronica .mitchquote::before { content: "What is that you express in your eyes? It seems to me more than all the print I have read in my life.";}
 #veronica #icat { background-image:url(https://i.postimg.cc/MK41DxHd/948dcb56d0f338e8c9e08b8976144b17b05598b0.gif); }
 
+#john .mitchquote::before { content: "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.";}
+#john #icat { background-image:url(https://64.media.tumblr.com/f25ea036db65739c8ecdae81a6abfb41/fc02a2e34fb90fd9-a8/s400x600/901a6449339b203864682e8bb1a5ed49c6055295.gifv); }
+
+#nkwachi .mitchquote::before { content: ".";}
+#nkwachi #icat { background-image:url(https://64.media.tumblr.com/98a375405750deeb05f541a9c3941b66/c756e1547585923b-73/s400x600/52515fa1389c5d0fc9d50bb59ad055e4366e08a3.gifv); }
+
+#james .mitchquote::before { content: ".";}
+#james #icat { background-image:url(https://64.media.tumblr.com/969e0491d9f65136a82d865fd01c1090/775ecabbe9909869-56/s400x600/f741b5d428effc8da93595f3842ecbbef6e22831.gifv); }
+
+
 
 
 
