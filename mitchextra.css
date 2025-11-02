@@ -16,13 +16,13 @@ grid-row-gap: 0px;
 .midiv1 { grid-area: 1 / 1 / 2 / 2; width: 75px; height: 75px; border-radius: 100%; margin-left: -15px;position: sticky!important; top: 50px; }
 .midiv2 { grid-area: 1 / 2 / 2 / 3; white-space: pre-wrap; }
 
-.mitchquote {padding: 0px 20px 0px 20px; margin-top: 10px; line-height: 150%; font-style: italic; border-left: 3px solid transparent!important;}
+.mitchquote {padding: 0px 20px 0px 20px; margin-top: 10px; line-height: 150%; font-style: italic; border-left: 1px solid transparent!important;}
 .mitchquote::before {content: "."; text-transform: lowercase; font-size: 9px; letter-spacing: 1px; text-align: left;}
 
 #icat {
     width: 75px; 
     height: 75px;
-    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 0.6); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px;
+    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 2px solid rgb(var(--groupcolor) / 0.4); outline: 0px solid rgb(var(--groupcolor) / 0.4); outline-offset: 3px;
 }
 
 .iava {
@@ -77,6 +77,7 @@ grid-row-gap: 0px;
 
 #ivan .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
 #ivan #icat { background-image:url(https://64.media.tumblr.com/4a19a84979cf6798202d06b61ccaef3f/6c046842c876d623-ea/s400x600/70ba928fb7761d412a48789e5d6ce4cd224fae83.gifv); }
+
 
 
 
