@@ -58,7 +58,7 @@ grid-row-gap: 0px;
 #lucien #icat { background-image:url(https://i.postimg.cc/dQ2fpHrP/55013a738d4651bb4db793bdf741cc8b0ff91f1a.gif); }
 
 #veronica .mitchquote::before { content: "What is that you express in your eyes? It seems to me more than all the print I have read in my life.";}
-#veronica #icat { background-image:url(https://i.postimg.cc/MK41DxHd/948dcb56d0f338e8c9e08b8976144b17b05598b0.gif); }
+#veronica #icat { background-image:url(https://64.media.tumblr.com/ccb488cedaa7bd1201420113fe6440ae/30ce03515cd6d359-81/s400x600/a41146ed95802e54af4332a2898b72527749bbad.gifv); }
 
 #john .mitchquote::before { content: "Don't bend; don't water it down; don't try to make it logical; don't edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly.";}
 #john #icat { background-image:url(https://64.media.tumblr.com/f25ea036db65739c8ecdae81a6abfb41/fc02a2e34fb90fd9-a8/s400x600/901a6449339b203864682e8bb1a5ed49c6055295.gifv); }
@@ -77,6 +77,12 @@ grid-row-gap: 0px;
 
 #ivan .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
 #ivan #icat { background-image:url(https://64.media.tumblr.com/414b15567683649216d4f139e7dcfe52/8b7db1c5eb582580-f0/s400x600/f2f1aa9c685178d6e2294fbddabca98f36984053.gifv); }
+
+#meera .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
+#meera #icat { background-image:url(https://64.media.tumblr.com/d1e1cf346751d9ee5f6d519022cc728d/ba511759f6b2fffc-d2/s400x600/2966a8cca98fe18cdf3faf31b74571bbf3cc91e9.gifv); }
+
+
+
 
 
 
