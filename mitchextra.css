@@ -22,7 +22,7 @@ grid-row-gap: 0px;
 #icat {
     width: 75px; 
     height: 75px;
-    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 0.6); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px;
+    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 0.4); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px;
 }
 
 .iava {
@@ -83,6 +83,11 @@ grid-row-gap: 0px;
 
 #newt .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
 #newt #icat { background-image:url(https://64.media.tumblr.com/cd746e6ff44211837a3df13520562c87/d66761579331252a-2f/s400x600/5518a7e29b4cae4c3411f0e327c102dd2af7d07a.gifv); }
+
+#vincent .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
+#vincent #icat { background-image:url(https://64.media.tumblr.com/09843b6ed54e502165f46e07bbbbefa8/d09a38b7ce6889ab-64/s400x600/c3b5d729af302b50d845dcefd78b19c66de98997.gifv); }
+
+
 
 
 
