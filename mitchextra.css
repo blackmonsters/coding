@@ -21,7 +21,7 @@ grid-row-gap: 0px;
 
 #icat {
     width: 75px; 
-    height: 75px;
+    height: 75px; background-size: cover; background-position: center;
     background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 0.4); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px;
 }
 
@@ -86,6 +86,7 @@ grid-row-gap: 0px;
 
 #vincent .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
 #vincent #icat { background-image:url(https://64.media.tumblr.com/09843b6ed54e502165f46e07bbbbefa8/d09a38b7ce6889ab-64/s400x600/c3b5d729af302b50d845dcefd78b19c66de98997.gifv); }
+
 
 
 
