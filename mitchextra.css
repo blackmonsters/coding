@@ -22,7 +22,7 @@ grid-row-gap: 0px;
 #icat {
     width: 75px; 
     height: 75px;
-    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 2px solid rgb(var(--groupcolor) / 0.4); outline: 0px solid rgb(var(--groupcolor) / 0.4); outline-offset: 3px;
+    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 0.6); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px;
 }
 
 .iava {
@@ -45,7 +45,7 @@ grid-row-gap: 0px;
 }
 
 .ilayer:after {
-    background-color: rgb(var(--groupcolor) / 0.6); border-radius: 100%;
+    background-color: rgb(var(--groupcolor) / 0.4); border-radius: 100%;
 }
 
 #lucy .mitchquote::before { content: "We're all dead eventually. There's hardly any time that we're not dead. Which is a good thing, too. Dying defines us. Snow isn't snow until it falls.";}
@@ -80,6 +80,11 @@ grid-row-gap: 0px;
 
 #meera .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
 #meera #icat { background-image:url(https://64.media.tumblr.com/d1e1cf346751d9ee5f6d519022cc728d/ba511759f6b2fffc-d2/s400x600/2966a8cca98fe18cdf3faf31b74571bbf3cc91e9.gifv); }
+
+#newt .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
+#newt #icat { background-image:url(https://64.media.tumblr.com/cd746e6ff44211837a3df13520562c87/d66761579331252a-2f/s400x600/5518a7e29b4cae4c3411f0e327c102dd2af7d07a.gifv); }
+
+
 
 
 
