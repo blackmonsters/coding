@@ -14,7 +14,7 @@ grid-row-gap: 0px;
 .miparent i { color: rgb(var(--groupcolor))!important; }
 
 .midiv1 { grid-area: 1 / 1 / 2 / 2; width: 75px; height: 75px; border-radius: 100%; margin-left: -15px;position: sticky!important; top: 50px; }
-.midiv2 { grid-area: 1 / 2 / 2 / 3; white-space: pre-wrap; font-family: Merriweather; line-height: 230%;letter-spacing: 0px!important; }
+.midiv2 { grid-area: 1 / 2 / 2 / 3; white-space: pre-wrap; }
 
 .mitchquote {padding: 0px 20px 0px 20px; margin-top: 10px; line-height: 150%; font-style: italic; border-left: 1px solid transparent!important;}
 .mitchquote::before {content: "."; text-transform: lowercase; font-size: 9px; letter-spacing: 1px; text-align: left;}
@@ -86,6 +86,7 @@ grid-row-gap: 0px;
 
 #vincent .mitchquote::before { content: "Whoever fights monsters should see to it that in the process he does not become a monster. And if you gaze long enough into an abyss, the abyss will gaze back into you";}
 #vincent #icat { background-image:url(https://64.media.tumblr.com/09843b6ed54e502165f46e07bbbbefa8/d09a38b7ce6889ab-64/s400x600/c3b5d729af302b50d845dcefd78b19c66de98997.gifv); }
+
 
 
 
