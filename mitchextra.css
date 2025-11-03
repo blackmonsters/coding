@@ -22,7 +22,7 @@ grid-row-gap: 0px;
 #icat {
     width: 75px; 
     height: 75px; background-size: cover; background-position: center;
-    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 3px solid rgb(var(--groupcolor) / 1); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px;
+    background-image: url(https://i.postimg.cc/0Qt6fk1V/tumblr-inline-rvn89e-RYW21yo8v3m-500.gif); border-radius: 100%; border: 1px solid rgb(var(--groupcolor) / 1); outline: 0px solid rgb(var(--groupcolor) / 0.6); outline-offset: 3px; box-shadow: 0 0 42px rgb(var(--groupcolor), 0.7);
 }
 
 .iava {
@@ -104,6 +104,7 @@ grid-row-gap: 0px;
 
 #billy .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
 #billy #icat { background-image:url(https://64.media.tumblr.com/5a5eba6d943b2689c7af1fd478956620/4ceb946072891436-25/s400x600/93b2700303b2487fe270f311475f65f874130449.gifv); }
+
 
 
 
