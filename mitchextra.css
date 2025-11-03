@@ -90,6 +90,10 @@ grid-row-gap: 0px;
 #justice .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
 #justice #icat { background-image:url(https://64.media.tumblr.com/09843b6ed54e502165f46e07bbbbefa8/d09a38b7ce6889ab-64/s400x600/c3b5d729af302b50d845dcefd78b19c66de98997.gifv); }
 
+#cora .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
+#cora #icat { background-image:url(https://64.media.tumblr.com/841d68a9ee32321d9354421ae23649ca/e1eb9d2e2984a847-42/s250x400/0ebde2994c805f14731ce25819999b750d231eeb.gifv); }
+
+
 
 
 
