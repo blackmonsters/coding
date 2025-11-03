@@ -94,10 +94,13 @@ grid-row-gap: 0px;
 #cora #icat { background-image:url(https://64.media.tumblr.com/841d68a9ee32321d9354421ae23649ca/e1eb9d2e2984a847-42/s250x400/0ebde2994c805f14731ce25819999b750d231eeb.gifv); }
 
 #ursula .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
-#ursula #icat { background-image:url(https://64.media.tumblr.com/16a4cb8e99404c223233d8013ac60c43/06fd3ae9c905c1f8-54/s400x600/653150ccbed584569992324d39a80528608ecfdd.gifv); }
+#ursula #icat { background-image:url(https://i.postimg.cc/2yxTLNSG/ezgif-4ab14699fb077a.gif); }
 
 #dumas .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
 #dumas #icat { background-image:url(https://64.media.tumblr.com/5d0e67c8df0e6cc8e00376f35f58a5cc/a75bc55d77e84e0e-93/s400x600/ad8b1267597c3662192e219bd8de544d8742ed3f.gifv); }
+
+#katrina .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
+#katrina #icat { background-image:url(https://64.media.tumblr.com/b2e61a2c5ce54a6ad98f0bf6699f7ade/e84a231492ad02fb-cf/s400x600/e0ca7ac6077cbc8b523977171573eba4f305e27c.gifv); }
 
 
 
