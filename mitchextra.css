@@ -45,7 +45,7 @@ grid-row-gap: 0px;
 }
 
 .ilayer:after {
-    background-color: rgb(var(--groupcolor) / 0.4); border-radius: 100%;
+    background-color: rgb(var(--groupcolor) / 0.2); border-radius: 100%;
 }
 
 #lucy .mitchquote::before { content: "We're all dead eventually. There's hardly any time that we're not dead. Which is a good thing, too. Dying defines us. Snow isn't snow until it falls.";}
@@ -104,6 +104,7 @@ grid-row-gap: 0px;
 
 #billy .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
 #billy #icat { background-image:url(https://64.media.tumblr.com/5a5eba6d943b2689c7af1fd478956620/4ceb946072891436-25/s400x600/93b2700303b2487fe270f311475f65f874130449.gifv); }
+
 
 
 
