@@ -40,7 +40,7 @@ grid-row-gap: 0px;
     top: 0px;
     right: 0px;
     bottom: 0px;
-    mix-blend-mode: screen; box-shadow: 0 0 42px rgb(var(--groupcolor) / 0.7);
+    mix-blend-mode: screen; box-shadow: 0 0 42px rgb(var(--groupcolor) / 0.4);
     pointer-events: none;
 }
 
@@ -107,6 +107,7 @@ grid-row-gap: 0px;
 
 #mathilda .mitchquote::before { content: "A lightning strike, a fallen tree. And I'm afraid, oh, don't let it find me. But you can't outrun yourself, you'll see. And I'm powerless, oh, don't remind me";}
 #mathilda #icat { background-image:url(https://64.media.tumblr.com/bd18a75dbc94b7a1a709bb8778891e1b/93402f54d9315757-43/s400x600/639b79f0fc0339f82246e7201075dcd46f4326be.gifv); }
+
 
 
 
