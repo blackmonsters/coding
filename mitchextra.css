@@ -40,7 +40,7 @@ grid-row-gap: 0px;
     top: 0px;
     right: 0px;
     bottom: 0px;
-    mix-blend-mode: screen; box-shadow: 0 0 62px rgb(var(--groupcolor) / 0.3);
+    mix-blend-mode: screen; box-shadow: 0 0 62px rgb(var(--groupcolor) / 0.4);
     pointer-events: none;
 }
 
@@ -110,6 +110,9 @@ grid-row-gap: 0px;
 
 #justice .mitchquote::before { content: "Some animal instinct starting up again And I am wound so tightly, I hardly even breathe. You wonder why we're hungry for some kind of release. So tired of being careful, so tired of being still";}
 #justice #icat { background-image:url(https://64.media.tumblr.com/bcd9d21330ba016a6e8a0296256ee553/163fb3a5aae010ce-9c/s400x600/d9e33c2c578f048388edbb6fca92bb323de33f22.gifv); }
+
+#zezrith .mitchquote::before { content: "Some animal instinct starting up again And I am wound so tightly, I hardly even breathe. You wonder why we're hungry for some kind of release. So tired of being careful, so tired of being still";}
+#zezrith #icat { background-image:url(https://64.media.tumblr.com/84655adb8e29091db78f2ccdd4b7c627/6283e2103eb289c0-cf/s400x600/c992491626e6f47f3b3616e75a955cd0693c9dbf.gifv); }
 
 
 
