@@ -29,7 +29,7 @@ grid-row-gap: 0px;
     background-color: white;
     background-position: 0px 0px;
     background-size: cover;
-    background-blend-mode: luminosity;
+    background-blend-mode: multiply;
     position: relative; border-radius: 100%;
 }
 
@@ -40,7 +40,7 @@ grid-row-gap: 0px;
     top: 0px;
     right: 0px;
     bottom: 0px;
-    mix-blend-mode: screen; box-shadow: 0 0 62px rgb(var(--groupcolor) / 0.4);
+    mix-blend-mode: multiply; box-shadow: 0 0 62px rgb(var(--groupcolor) / 0.4);
     pointer-events: none;
 }
 
@@ -125,6 +125,7 @@ grid-row-gap: 0px;
 
 #santiago .mitchquote::before { content: "Some animal instinct starting up again And I am wound so tightly, I hardly even breathe. You wonder why we're hungry for some kind of release. So tired of being careful, so tired of being still";}
 #santiago #icat { background-image:url(https://64.media.tumblr.com/e66adc474e5ae2af8f219eaae2eb4f91/8a467fc64adc54a0-a3/s400x600/e240208cc40fb2e8f6337404bcb13b10d6cec40b.gifv); }
+
 
 
 
