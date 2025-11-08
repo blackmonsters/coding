@@ -40,7 +40,7 @@ grid-row-gap: 0px;
     top: 0px;
     right: 0px;
     bottom: 0px;
-    mix-blend-mode: multiply; box-shadow: 0 0 45px 5px rgb(var(--groupcolor) / 0.4);
+    mix-blend-mode: multiply; box-shadow: 0 0 15px 5px rgb(var(--groupcolor) / 0.4);
     pointer-events: none;
 }
 
@@ -137,6 +137,7 @@ grid-row-gap: 0px;
 
 #ruby .mitchquote::before { content: "Some animal instinct starting up again And I am wound so tightly, I hardly even breathe. You wonder why we're hungry for some kind of release. So tired of being careful, so tired of being still";}
 #ruby #icat { background-image:url(https://64.media.tumblr.com/8c79cdf2df64ff34e7471fd8bcabe46a/5fbe616c0c2b9a0a-af/s400x600/dc5542e6754c4817f442bb135821ba9a2ec84a3d.gifv);}
+
 
 
 
